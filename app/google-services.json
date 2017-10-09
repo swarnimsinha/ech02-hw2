@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "553916067729",
+    "firebase_url": "https://cold-trail.firebaseio.com",
+    "project_id": "cold-trail",
+    "storage_bucket": "cold-trail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553916067729:android:5f0c192df6fb7539",
+        "android_client_info": {
+          "package_name": "com.example.snoopy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553916067729-l6k8aic1bqrg447b55c9e5i1fd82tgaf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.snoopy",
+            "certificate_hash": "1613d847b5cffdd44928f1e5470cf6fa3aabb499"
+          }
+        },
+        {
+          "client_id": "553916067729-bts8qckqnbnrjq21pd9s20k4lgr9pis8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlPR096sOohVB9d0xuRCe1M34wBO-crBA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553916067729-bts8qckqnbnrjq21pd9s20k4lgr9pis8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
