@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Setup Suite", 
+        "tests": [
+            {
+                "name": "Setup Test"
+            }
+        ]
+    }, 
+    {
+        "name": "Built-in Fuzz Suite", 
+        "tests": [
+            {
+                "name": "Built-in Fuzz Test"
+            }
+        ]
+    }, 
+    {
+        "name": "Teardown Suite", 
+        "tests": [
+            {
+                "name": "Teardown Test"
+            }
+        ]
+    }
+]
