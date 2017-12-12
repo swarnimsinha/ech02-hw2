@@ -1,0 +1,1815 @@
+--------- beginning of /dev/log/main
+12-12 20:47:22.114   344 13153 I framebuffer: /data/system/enterprise.conf doesn't exist or cannot be opened
+12-12 20:47:22.254   787  3280 I EDMNativeHelperService: isScreenCaptureEnabled
+--------- beginning of /dev/log/system
+12-12 20:47:22.834   787  1784 D SSRMv2:SIOP: SIOP:: AP = 300, Delta = 0
+12-12 20:47:22.984 13159 13159 D AndroidRuntime: 
+12-12 20:47:22.984 13159 13159 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+12-12 20:47:22.994 13159 13159 D AndroidRuntime: CheckJNI is OFF
+12-12 20:47:22.994 13159 13159 D AndroidRuntime: setted country_code = USA
+12-12 20:47:22.994 13159 13159 D AndroidRuntime: setted countryiso_code = US
+12-12 20:47:22.994 13159 13159 D AndroidRuntime: setted sales_code = BNN
+12-12 20:47:22.994 13159 13159 D AndroidRuntime: readGMSProperty: start
+12-12 20:47:22.994 13159 13159 D AndroidRuntime: readGMSProperty: already setted!!
+12-12 20:47:22.994 13159 13159 D AndroidRuntime: readGMSProperty: end
+12-12 20:47:22.994 13159 13159 D AndroidRuntime: addProductProperty: start
+12-12 20:47:23.014 13159 13159 D dalvikvm: Trying to load lib libjavacore.so 0x0
+12-12 20:47:23.014 13159 13159 D dalvikvm: Added shared lib libjavacore.so 0x0
+12-12 20:47:23.024 13159 13159 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+12-12 20:47:23.024 13159 13159 D dalvikvm: Added shared lib libnativehelper.so 0x0
+12-12 20:47:23.024 13159 13159 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+12-12 20:47:23.264 13159 13159 E memtrack: Couldn't load memtrack module (No such file or directory)
+12-12 20:47:23.264 13159 13159 E android.os.Debug: failed to load memtrack module: -2
+12-12 20:47:23.304 13159 13159 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 192 unimplemented (abstract) methods
+12-12 20:47:23.384 13159 13159 D AndroidRuntime: Calling main entry com.android.commands.monkey.Monkey
+12-12 20:47:23.504   787   875 W BroadcastQueue: Skipping deliver [background] BroadcastRecord{44209700 u-1 android.net.conn.CONNECTIVITY_CHANGE} to ReceiverList{42f156d8 13159 (unknown name)/2000/u-1 remote:42f16200}: process crashing
+12-12 20:47:23.594   787   798 V ApplicationPolicy: isApplicationStateBlocked userId 0 pkgname com.example.snoopy
+12-12 20:47:23.604   787   798 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:23.614   241   241 I SurfaceFlinger: id=21 createSurf (16x16),-1 flag=20004, EimLayer
+12-12 20:47:23.614   241   241 I SurfaceFlinger: id=22 createSurf (16x16),-1 flag=20004, EimLayer
+12-12 20:47:23.634  1167  1167 D Launcher.HomeView: onPause
+12-12 20:47:23.634   787   867 D StatusBarManagerService: tr p:787,o:f
+12-12 20:47:23.634   991   991 D PhoneStatusBar: setTransGradationMode=false, mTransparentMode=false, mSemiTransparentMode=false, mMultiWindowMode=false
+12-12 20:47:23.644   241   241 I SurfaceFlinger: id=23 createSurf (1x1),1 flag=404, tnoopy
+12-12 20:47:23.644   991   991 D PhoneStatusBar: setTransGradationMode=false, mTransparentMode=false, mSemiTransparentMode=false, mMultiWindowMode=false
+12-12 20:47:23.644  1167  1167 D Launcher.Workspace: exitWidgetResizeMode State: NORMAL, newDragStarted: false
+12-12 20:47:23.644   787   951 D StatusBarManagerService: tr p:1167,o:f
+12-12 20:47:23.654 13205 13205 I SELinux : Function: selinux_android_load_priority [0], There is no sepolicy file.
+12-12 20:47:23.654 13205 13205 I SELinux :  
+12-12 20:47:23.654 13205 13205 I SELinux : Function: selinux_android_load_priority [1], There is no sepolicy version file.
+12-12 20:47:23.654 13205 13205 I SELinux :  
+12-12 20:47:23.654 13205 13205 I SELinux : Function: selinux_android_load_priority , priority version is VE=SEPF_SM-T530NU_4.4.2_0028
+12-12 20:47:23.654 13205 13205 I SELinux :  
+12-12 20:47:23.654 13205 13205 I SELinux :  
+12-12 20:47:23.654 13205 13205 I SELinux : selinux_android_seapp_context_reload: seapp_contexts file is loaded from /seapp_contexts
+12-12 20:47:23.674   787   867 D PointerIcon: setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+12-12 20:47:23.674   787   867 D PointerIcon: setMouseCustomIcon IconType is same.101
+12-12 20:47:23.674 13215 13215 I SELinux : Function: selinux_android_load_priority [0], There is no sepolicy file.
+12-12 20:47:23.674 13215 13215 I SELinux :  
+12-12 20:47:23.674 13215 13215 I SELinux : Function: selinux_android_load_priority [1], There is no sepolicy version file.
+12-12 20:47:23.674 13215 13215 I SELinux :  
+12-12 20:47:23.674 13215 13215 I SELinux : Function: selinux_android_load_priority , priority version is VE=SEPF_SM-T530NU_4.4.2_0028
+12-12 20:47:23.674 13215 13215 I SELinux :  
+12-12 20:47:23.674 13215 13215 I SELinux :  
+12-12 20:47:23.674 13215 13215 I SELinux : selinux_android_seapp_context_reload: seapp_contexts file is loaded from /seapp_contexts
+12-12 20:47:23.694 13215 13215 D dalvikvm: Late-enabling CheckJNI
+12-12 20:47:23.714   787   901 I InputDispatcher: Dropping event because there is no touchable window at (1034, 633).
+12-12 20:47:23.714   787   798 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:23.714   787   951 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:23.724  1167  1167 D Launcher.HomeView: onStop
+12-12 20:47:23.734  1167  1167 D Launcher: onTrimMemory. Level: 20
+12-12 20:47:23.754   344 13231 I framebuffer: /data/system/enterprise.conf doesn't exist or cannot be opened
+12-12 20:47:23.764   787  1245 W ActivityManager: Permission Denial: getCurrentUser() from pid=13205, uid=10133 requires android.permission.INTERACT_ACROSS_USERS
+12-12 20:47:23.764   787   879 D STATUSBAR-StatusBarManagerService: manageDisableList what=0x0 pkg=WindowManager.LayoutParams
+12-12 20:47:23.774   787   901 I InputDispatcher: Dropping event because there is no touchable window at (1244, 127).
+12-12 20:47:23.774   787   951 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:23.774   787   797 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:23.814 13205 13205 V TaskCloserActivity: TaskCloserActivity enter()
+12-12 20:47:23.814 13205 13205 V TaskCloserActivity: TaskCloserActivity onReceive() - com.sec.android.intent.action.HOME_PAUSE
+12-12 20:47:23.824   787  3280 I EDMNativeHelperService: isScreenCaptureEnabled
+12-12 20:47:23.844   787  3280 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:23.874 13215 13215 I dalvikvm: Could not find method android.content.pm.PackageManager.getPackageInstaller, referenced from method com.google.android.gms.common.zzo.zzx
+12-12 20:47:23.874 13215 13215 W dalvikvm: VFY: unable to resolve virtual method 525: Landroid/content/pm/PackageManager;.getPackageInstaller ()Landroid/content/pm/PackageInstaller;
+12-12 20:47:23.874 13215 13215 D dalvikvm: VFY: replacing opcode 0x6e at 0x0013
+12-12 20:47:23.884 13215 13215 I dalvikvm: Could not find method android.content.Context.getNoBackupFilesDir, referenced from method com.google.android.gms.common.util.zzu.getNoBackupFilesDir
+12-12 20:47:23.884 13215 13215 W dalvikvm: VFY: unable to resolve virtual method 391: Landroid/content/Context;.getNoBackupFilesDir ()Ljava/io/File;
+12-12 20:47:23.884 13215 13215 D dalvikvm: VFY: replacing opcode 0x6e at 0x0006
+12-12 20:47:23.894 13215 13237 W DynamiteModule: Local module descriptor class for com.google.firebase.auth not found.
+12-12 20:47:23.894 13215 13237 I dalvikvm: Could not find method android.content.pm.PackageManager.isInstantApp, referenced from method com.google.android.gms.internal.zzbec.zzalq
+12-12 20:47:23.894 13215 13237 W dalvikvm: VFY: unable to resolve virtual method 532: Landroid/content/pm/PackageManager;.isInstantApp (Ljava/lang/String;)Z
+12-12 20:47:23.894 13215 13237 D dalvikvm: VFY: replacing opcode 0x6e at 0x002d
+12-12 20:47:23.894   787   901 I InputDispatcher: Dropping event because there is no touchable window at (920, 179).
+12-12 20:47:23.894   787  3279 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:23.894   787   798 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:23.904 13215 13215 D FirebaseApp: com.google.firebase.crash.FirebaseCrash is not linked. Skipping initialization.
+12-12 20:47:23.904   787  1216 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:23.904   787   797 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:23.904   787  1166 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:23.914 13215 13215 I FA      : App measurement is starting up, version: 11400
+12-12 20:47:23.914 13215 13215 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+12-12 20:47:23.914   787  1060 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:23.914   787  1231 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:23.914   787  3279 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:23.914   787   798 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:23.914   787  3280 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:23.914   787  3280 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:23.924 13215 13237 W DynamiteModule: Local module descriptor class for com.google.firebase.auth not found.
+12-12 20:47:23.924   787   863 D SensorService:   0.1 -0.1 9.8
+12-12 20:47:23.964 13215 13215 I dalvikvm: Could not find method android.content.pm.PackageManager.isInstantApp, referenced from method com.google.android.gms.internal.zzbeb.zzcp
+12-12 20:47:23.964 13215 13215 W dalvikvm: VFY: unable to resolve virtual method 531: Landroid/content/pm/PackageManager;.isInstantApp ()Z
+12-12 20:47:23.964 13215 13215 D dalvikvm: VFY: replacing opcode 0x6e at 0x0028
+12-12 20:47:23.964 13215 13215 I FA      : To enable faster debug mode event logging run:
+12-12 20:47:23.964 13215 13215 I FA      :   adb shell setprop debug.firebase.analytics.app com.example.snoopy
+12-12 20:47:23.964 13215 13215 E dalvikvm: Could not find class 'android.app.job.JobScheduler', referenced from method com.google.android.gms.internal.zzcfr.zzazv
+12-12 20:47:23.964 13215 13215 W dalvikvm: VFY: unable to resolve check-cast 64 (Landroid/app/job/JobScheduler;) in Lcom/google/android/gms/internal/zzcfr;
+12-12 20:47:23.964 13215 13215 D dalvikvm: VFY: replacing opcode 0x1f at 0x000b
+12-12 20:47:23.974   787   901 I InputDispatcher: Dropping event because there is no touchable window at (177, 285).
+12-12 20:47:23.974 13215 13215 E dalvikvm: Could not find class 'android.app.job.JobScheduler', referenced from method com.google.android.gms.internal.zzcfr.zzs
+12-12 20:47:23.974 13215 13215 W dalvikvm: VFY: unable to resolve check-cast 64 (Landroid/app/job/JobScheduler;) in Lcom/google/android/gms/internal/zzcfr;
+12-12 20:47:23.974 13215 13215 D dalvikvm: VFY: replacing opcode 0x1f at 0x0098
+12-12 20:47:23.974 13215 13215 D dalvikvm: DexOpt: unable to opt direct call 0x0142 at 0xa0 in Lcom/google/android/gms/internal/zzcfr;.zzs
+12-12 20:47:23.974 13215 13215 D dalvikvm: DexOpt: unable to opt direct call 0x0597 at 0xae in Lcom/google/android/gms/internal/zzcfr;.zzs
+12-12 20:47:23.974   787  1245 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:23.974   787   951 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:23.994 13215 13215 I FirebaseInitProvider: FirebaseApp initialization successful
+12-12 20:47:23.994   787  6082 W ActivityManager: Permission Denial: getCurrentUser() from pid=13215, uid=13112 requires android.permission.INTERACT_ACROSS_USERS
+12-12 20:47:24.014 13215 13244 W dalvikvm: VFY: unable to find class referenced in signature (Landroid/app/job/JobParameters;)
+12-12 20:47:24.014 13215 13244 W dalvikvm: VFY: unable to find class referenced in signature (Landroid/app/job/JobParameters;)
+12-12 20:47:24.024 13215 13244 W dalvikvm: VFY: unable to find class referenced in signature (Landroid/app/job/JobParameters;)
+12-12 20:47:24.024 13215 13244 W dalvikvm: VFY: unable to find class referenced in signature (Landroid/app/job/JobParameters;)
+12-12 20:47:24.024 13215 13215 I dalvikvm: Could not find method android.view.Window$Callback.onProvideKeyboardShortcuts, referenced from method android.support.v7.view.WindowCallbackWrapper.onProvideKeyboardShortcuts
+12-12 20:47:24.024 13215 13215 W dalvikvm: VFY: unable to resolve interface method 17293: Landroid/view/Window$Callback;.onProvideKeyboardShortcuts (Ljava/util/List;Landroid/view/Menu;I)V
+12-12 20:47:24.024 13215 13215 D dalvikvm: VFY: replacing opcode 0x72 at 0x0002
+12-12 20:47:24.024 13215 13215 W dalvikvm: VFY: unable to find class referenced in signature (Landroid/view/SearchEvent;)
+12-12 20:47:24.024 13215 13215 I dalvikvm: Could not find method android.view.Window$Callback.onSearchRequested, referenced from method android.support.v7.view.WindowCallbackWrapper.onSearchRequested
+12-12 20:47:24.024 13215 13215 W dalvikvm: VFY: unable to resolve interface method 17295: Landroid/view/Window$Callback;.onSearchRequested (Landroid/view/SearchEvent;)Z
+12-12 20:47:24.024 13215 13215 D dalvikvm: VFY: replacing opcode 0x72 at 0x0002
+12-12 20:47:24.024 13215 13215 I dalvikvm: Could not find method android.view.Window$Callback.onWindowStartingActionMode, referenced from method android.support.v7.view.WindowCallbackWrapper.onWindowStartingActionMode
+12-12 20:47:24.024 13215 13215 W dalvikvm: VFY: unable to resolve interface method 17299: Landroid/view/Window$Callback;.onWindowStartingActionMode (Landroid/view/ActionMode$Callback;I)Landroid/view/ActionMode;
+12-12 20:47:24.024 13215 13215 D dalvikvm: VFY: replacing opcode 0x72 at 0x0002
+12-12 20:47:24.024 13215 13215 I dalvikvm: Could not find method android.content.res.TypedArray.getChangingConfigurations, referenced from method android.support.v7.widget.TintTypedArray.getChangingConfigurations
+12-12 20:47:24.024 13215 13215 W dalvikvm: VFY: unable to resolve virtual method 610: Landroid/content/res/TypedArray;.getChangingConfigurations ()I
+12-12 20:47:24.024 13215 13215 D dalvikvm: VFY: replacing opcode 0x6e at 0x0002
+12-12 20:47:24.034 13215 13215 I dalvikvm: Could not find method android.content.res.TypedArray.getType, referenced from method android.support.v7.widget.TintTypedArray.getType
+12-12 20:47:24.034 13215 13215 W dalvikvm: VFY: unable to resolve virtual method 632: Landroid/content/res/TypedArray;.getType (I)I
+12-12 20:47:24.034 13215 13215 D dalvikvm: VFY: replacing opcode 0x6e at 0x0008
+12-12 20:47:24.034   787   901 I InputDispatcher: Dropping event because there is no touchable window at (839, 507).
+12-12 20:47:24.034   787  6082 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:24.034   787  3281 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:24.044 13215 13244 I dalvikvm: Could not find method android.app.job.JobParameters.getExtras, referenced from method com.google.android.gms.internal.zzcfh.onStartJob
+12-12 20:47:24.044 13215 13244 W dalvikvm: VFY: unable to resolve virtual method 327: Landroid/app/job/JobParameters;.getExtras ()Landroid/os/PersistableBundle;
+12-12 20:47:24.044 13215 13244 D dalvikvm: VFY: replacing opcode 0x6e at 0x000a
+12-12 20:47:24.044   787  1165 W ActivityManager: Permission Denial: getCurrentUser() from pid=13215, uid=13112 requires android.permission.INTERACT_ACROSS_USERS
+12-12 20:47:24.074   991   991 D PhoneStatusBar: setTransGradationMode=false, mTransparentMode=false, mSemiTransparentMode=false, mMultiWindowMode=false
+12-12 20:47:24.074   787  1245 D StatusBarManagerService: tr p:13215,o:f
+12-12 20:47:24.084   787   901 I InputDispatcher: Dropping event because there is no touchable window at (261, 445).
+12-12 20:47:24.084   787  1246 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:24.084   787  1166 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:24.114 13215 13215 I dalvikvm: Could not find method android.widget.FrameLayout.startActionModeForChild, referenced from method android.support.v7.widget.ActionBarContainer.startActionModeForChild
+12-12 20:47:24.114 13215 13215 W dalvikvm: VFY: unable to resolve virtual method 17735: Landroid/widget/FrameLayout;.startActionModeForChild (Landroid/view/View;Landroid/view/ActionMode$Callback;I)Landroid/view/ActionMode;
+12-12 20:47:24.114 13215 13215 D dalvikvm: VFY: replacing opcode 0x6f at 0x0002
+12-12 20:47:24.114   241  1177 I SurfaceFlinger: id=8 Removed Mauncher (6/12)
+12-12 20:47:24.114   241   462 I SurfaceFlinger: id=8 Removed Mauncher (-2/12)
+12-12 20:47:24.124 13215 13215 I dalvikvm: Could not find method android.content.Context.getColorStateList, referenced from method android.support.v7.content.res.AppCompatResources.getColorStateList
+12-12 20:47:24.124 13215 13215 W dalvikvm: VFY: unable to resolve virtual method 380: Landroid/content/Context;.getColorStateList (I)Landroid/content/res/ColorStateList;
+12-12 20:47:24.124 13215 13215 D dalvikvm: VFY: replacing opcode 0x6e at 0x0006
+12-12 20:47:24.134 13215 13215 I dalvikvm: Could not find method android.content.res.Resources.getDrawable, referenced from method android.support.v7.widget.ResourcesWrapper.getDrawable
+12-12 20:47:24.134 13215 13215 W dalvikvm: VFY: unable to resolve virtual method 573: Landroid/content/res/Resources;.getDrawable (ILandroid/content/res/Resources$Theme;)Landroid/graphics/drawable/Drawable;
+12-12 20:47:24.134 13215 13215 D dalvikvm: VFY: replacing opcode 0x6e at 0x0002
+12-12 20:47:24.134 13215 13215 I dalvikvm: Could not find method android.content.res.Resources.getDrawableForDensity, referenced from method android.support.v7.widget.ResourcesWrapper.getDrawableForDensity
+12-12 20:47:24.134 13215 13215 W dalvikvm: VFY: unable to resolve virtual method 575: Landroid/content/res/Resources;.getDrawableForDensity (IILandroid/content/res/Resources$Theme;)Landroid/graphics/drawable/Drawable;
+12-12 20:47:24.134 13215 13215 D dalvikvm: VFY: replacing opcode 0x6e at 0x0002
+12-12 20:47:24.144   787   901 I InputDispatcher: Dropping event because there is no touchable window at (1135, 573).
+12-12 20:47:24.144   787  1165 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:24.144   787  3279 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:24.144   787  3279 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:24.144   787   798 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:24.154   787  3280 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:24.154   787   951 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:24.154   787  1215 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:24.154   787  1166 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:24.154   787  1166 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:24.164 13215 13215 E dalvikvm: Could not find class 'android.graphics.drawable.RippleDrawable', referenced from method android.support.v7.widget.AppCompatImageHelper.hasOverlappingRendering
+12-12 20:47:24.164 13215 13215 W dalvikvm: VFY: unable to resolve instanceof 173 (Landroid/graphics/drawable/RippleDrawable;) in Landroid/support/v7/widget/AppCompatImageHelper;
+12-12 20:47:24.164 13215 13215 D dalvikvm: VFY: replacing opcode 0x20 at 0x000c
+12-12 20:47:24.164   787  1060 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:24.164   787  3281 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:24.214   787   901 I InputDispatcher: Dropping event because there is no touchable window at (885, 527).
+12-12 20:47:24.214   787   798 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:24.214   787  1215 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:24.234   991   991 D PhoneStatusBar: setSemiTransparentMode=false, mTransparentMode=false, mSemiTransparentMode=false, mMultiWindowMode=false
+12-12 20:47:24.234   787  3280 D StatusBarManagerService: semi p:13215,o:f
+12-12 20:47:24.264   787   901 I InputDispatcher: Dropping event because there is no touchable window at (879, 380).
+12-12 20:47:24.264   787  3278 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:24.274   241   241 I SurfaceFlinger: id=24 createSurf (1x1),1 flag=404, NainActivit
+12-12 20:47:24.274   787  1216 I SpenGestureManager: setFocusWindow21010
+12-12 20:47:24.274   787  3280 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:24.304   787   867 D PointerIcon: setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+12-12 20:47:24.304   787   867 D PointerIcon: setMouseCustomIcon IconType is same.101
+12-12 20:47:24.304 13215 13215 I Adreno-EGL: <qeglDrvAPI_eglInitialize:410>: EGL 1.4 QUALCOMM build:  ()
+12-12 20:47:24.304 13215 13215 I Adreno-EGL: OpenGL ES Shader Compiler Version: E031.24.00.08
+12-12 20:47:24.304 13215 13215 I Adreno-EGL: Build Date: 03/21/14 Fri
+12-12 20:47:24.304 13215 13215 I Adreno-EGL: Local Branch: AU200+patches_03212014
+12-12 20:47:24.304 13215 13215 I Adreno-EGL: Remote Branch: 
+12-12 20:47:24.304 13215 13215 I Adreno-EGL: Local Patches: 
+12-12 20:47:24.304 13215 13215 I Adreno-EGL: Reconstruct Branch: 
+12-12 20:47:24.324   787   901 I Analytics: Analytics()
+12-12 20:47:24.324   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:24.324   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:24.324   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:24.334   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:24.354 13215 13215 D OpenGLRenderer: Enabling debug mode 0
+12-12 20:47:24.384   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:24.384   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:24.384   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:24.394   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:24.404   787  3281 W LicenseLogService: log() failed
+12-12 20:47:24.454   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:24.454   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:24.454   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:24.454   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:24.504   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:24.504   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:24.504   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:24.514   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:24.524  1300  1300 I SamsungIME: getDebugLevel  : 0x4f4c
+12-12 20:47:24.564   787  1216 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:24.574  1300  1300 I SamsungIME: getDebugLevel  : 0x4f4c
+12-12 20:47:24.624  1300  1300 I SamsungIME: KeybaordView init() : load resources
+12-12 20:47:24.624   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:24.624   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:24.624   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:24.624   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:24.624   787   867 D CustomFrequencyManagerService: FrequencyrequestList.getNextMaxCPUCoreRequest, index: 0
+12-12 20:47:24.624   787   867 W ActivityManager: mDVFSHelper.release()
+12-12 20:47:24.684   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:24.684   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:24.684   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:24.684   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:24.684  1300  1300 I SamsungIME: getCurrentKeyboard
+12-12 20:47:24.684  1300  1300 I SamsungIME: getTextKeyboard
+12-12 20:47:24.744   787  3279 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:24.764  1300  1300 D SamsungIME: [SwiftkeyWrapper] currentLangauge : 1701729619
+12-12 20:47:24.764  1300  1300 D SamsungIME: onStartInputView
+12-12 20:47:24.804   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:24.804   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:24.804   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:24.804   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:24.834   241 13243 I SurfaceFlinger: id=23 Removed tnoopy (9/12)
+12-12 20:47:24.834   241   462 I SurfaceFlinger: id=23 Removed tnoopy (-2/12)
+12-12 20:47:24.854   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:24.854   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:24.854   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:24.864   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:24.874  1300  1300 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1509 android.content.ContextWrapper.sendBroadcast:377 com.diotek.ime.framework.common.InputManagerImpl.sendInputLanguage:9353 com.diotek.ime.framework.common.InputManagerImpl.initDefaultLanguage:4901 com.diotek.ime.framework.common.InputManagerImpl.initSelectedLanguage:5143 
+12-12 20:47:24.884  1300  1300 D SamsungIME: IME_NULL
+12-12 20:47:24.884  1300  1300 D SamsungIME: onWindowShown
+12-12 20:47:24.904  1300  1300 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1509 android.content.ContextWrapper.sendBroadcast:377 android.inputmethodservice.InputMethodService.sendInputViewShownState:539 android.inputmethodservice.InputMethodService.showWindow:2161 android.inputmethodservice.InputMethodService$InputMethodImpl.showSoftInput:716 
+12-12 20:47:24.904   787  1784 D SSRMv2:TSP:AirViewOnOff: DeviceInfo:: 00000000000
+12-12 20:47:24.904   787  1784 D SSRMv2:TSP:AirViewOnOff: SettingsAirViewInfo:: 000000000
+12-12 20:47:24.924   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:24.924   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:24.924   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:24.924   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:24.934   787   787 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1523 com.android.server.StatusBarManagerService.sendNotification:981 com.android.server.StatusBarManagerService.addNotification:670 com.android.server.NotificationManagerService$7.run:2142 android.os.Handler.handleCallback:733 
+12-12 20:47:24.934   787   787 D STATUSBAR-StatusBarManagerService: sendNotification(1) - 17041255
+12-12 20:47:24.944 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> WC:42 [0:0] action : comandroidserverNotificationManagerServiceNotificationArrived
+12-12 20:47:24.944 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> WC:55 [0:0] settings CT : androidappReceiverRestrictedContext@42049bf0
+12-12 20:47:24.944 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> UIM:146 [0:0] setContext
+12-12 20:47:24.944 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> UIM:227 [0:0] The widget does not exist in idle!!
+12-12 20:47:24.954  1300  1300 D SamsungIME: onStartInputView
+12-12 20:47:24.964   991   991 D ProgressBar: setProgressDrawable drawableHeight = 7
+12-12 20:47:24.974   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:24.974   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:24.974   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:24.974  1300  1300 D SamsungIME: Dismiss ExpandCandiate
+12-12 20:47:24.974  1300  1300 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1509 android.content.ContextWrapper.sendBroadcast:377 com.diotek.ime.framework.common.InputManagerImpl.sendInputLanguage:9353 com.diotek.ime.framework.common.InputManagerImpl.initDefaultLanguage:4901 com.diotek.ime.framework.common.InputManagerImpl.initSelectedLanguage:5143 
+12-12 20:47:24.984   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:24.984  1300  1300 D SamsungIME: Dismiss ExpandCandiate
+12-12 20:47:24.984  1300  1300 I SamsungIME: getDebugLevel  : 0x4f4c
+12-12 20:47:24.984  1300  1300 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1509 android.content.ContextWrapper.sendBroadcast:377 com.diotek.ime.framework.common.InputManagerImpl.sendInputLanguage:9353 com.diotek.ime.framework.common.InputManagerImpl.setLanguage:5477 com.diotek.ime.framework.common.InputManagerImpl.startInputViewContinue:3348 
+12-12 20:47:24.984   991   991 D PhoneStatusBar: tick(): knoxCustomManager = android.app.enterprise.knoxcustom.KnoxCustomManager@41d4da00
+12-12 20:47:25.004   991   991 D SizeAdaptiveLayout: com.android.internal.widget.SizeAdaptiveLayout{421f17a8 V.E..... ......I. 0,0-0,0 #7f080087 app:id/adaptive}child view android.widget.FrameLayout{421f3ba8 G.E..... ......I. 0,0-0,0 #1020364 android:id/status_bar_latest_event_content} measured out of bounds at 64px clamped to 68px
+12-12 20:47:25.004   991   991 D SizeAdaptiveLayout: com.android.internal.widget.SizeAdaptiveLayout{421f17a8 V.E..... ......I. 0,0-0,0 #7f080087 app:id/adaptive}child view android.widget.FrameLayout{421f3ba8 G.E..... ......I. 0,0-0,0 #1020364 android:id/status_bar_latest_event_content} measured out of bounds at 64px clamped to 68px
+12-12 20:47:25.004   991   991 D STATUSBAR-IconMerger: checkOverflow(1036), More:false, Req:false Child:5
+12-12 20:47:25.014  1300  1300 I SamsungIME: getDebugLevel  : 0x4f4c
+12-12 20:47:25.034  1300  1300 I SamsungIME: KeybaordView init() : load resources
+12-12 20:47:25.034   787  1215 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:25.064  1300  1300 I SamsungIME: getCurrentKeyboard
+12-12 20:47:25.064  1300  1300 I SamsungIME: getTextKeyboard
+12-12 20:47:25.094   787  1060 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:25.104  1300  1300 D SamsungIME: [SwiftkeyWrapper] currentLangauge : 1701729619
+12-12 20:47:25.114  1300  1300 D SamsungIME: Dismiss ExpandCandiate
+12-12 20:47:25.114  1300  1300 I SamsungIME: getCurrentKeyboard
+12-12 20:47:25.114  1300  1300 I SamsungIME: getTextKeyboard
+12-12 20:47:25.114  1300  1300 D SamsungIME: [SwiftkeyWrapper] currentLangauge : 1701729619
+12-12 20:47:25.114  1300  1300 D SamsungIME: Dismiss ExpandCandiate
+12-12 20:47:25.114  1300  1300 I SamsungIME: [IMI] startInputView - caller pid : 13215, caller uid : 13112
+12-12 20:47:25.124  1300  1300 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1509 android.content.ContextWrapper.sendBroadcast:377 android.inputmethodservice.InputMethodService.sendInputViewShownState:539 android.inputmethodservice.InputMethodService.showWindow:2161 android.inputmethodservice.InputMethodService$InputMethodImpl.showSoftInput:716 
+12-12 20:47:25.124   787  1784 D SSRMv2:TSP:AirViewOnOff: DeviceInfo:: 00000000000
+12-12 20:47:25.124   787  1784 D SSRMv2:TSP:AirViewOnOff: SettingsAirViewInfo:: 000000000
+12-12 20:47:25.144   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:25.144   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:25.154   991   991 V PanelView: animationTick called with dtms=0; nothing to do (h=0.0 v=0.0)
+12-12 20:47:25.154   991   991 V PanelView: animationTick called with dtms=-3; nothing to do (h=0.0 v=0.0)
+12-12 20:47:25.154   787   787 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1523 com.android.server.StatusBarManagerService.sendNotification:981 com.android.server.StatusBarManagerService.updateNotification:690 com.android.server.NotificationManagerService$7.run:2134 android.os.Handler.handleCallback:733 
+12-12 20:47:25.154   787   787 D STATUSBAR-StatusBarManagerService: sendNotification(2) - 17041255
+12-12 20:47:25.174   991   991 D STATUSBAR-PhoneStatusBar: makeExpandedVisible
+12-12 20:47:25.174   991   991 D STATUSBAR-QuickSettingPanel: setSingleLine:true
+12-12 20:47:25.174   991   991 D STATUSBAR-QuickSettingPanel: updateButtonInfo mButtonWidth : 114 mColumnNumber:7 orien: 2
+12-12 20:47:25.174   991   991 D STATUSBAR-PhoneStatusBar: Mini Controller text scroll : ON
+12-12 20:47:25.184   787  1215 V Vibrator: Called cancel() API - PUID: 1000, PackageName: android
+12-12 20:47:25.184   787  1215 W Vibrator: Vibrator.cancel()
+12-12 20:47:25.184   787   797 I AudioService: getStreamVolume 5 index 0
+12-12 20:47:25.184   787  1215 D VibratorService: JNI vibratorOff()
+12-12 20:47:25.184   787  1215 D LightsService: [api] [SvcLED] turnOff:: id = 4 (uid: 10016 pid: 991) 
+12-12 20:47:25.184   787  1215 D LightsService: [SvcLED] setSvcLedStateLocked:: SvcLEDState : 0x0 -> 0x0 | SvcLED(id=4) set Off
+12-12 20:47:25.184   787   894 D LightsService: [SvcLED] Lux failed to be updated in 700ms. -> handleForcedSvcLEDTasK
+12-12 20:47:25.184   787   894 D LightsService: [SvcLED]  setSvcLedLightLocked :: Current SvcLED(id=3) maintains its priority right
+12-12 20:47:25.194   991   991 D SizeAdaptiveLayout: com.android.internal.widget.SizeAdaptiveLayout{421f17a8 V.E..... ......ID 0,0-760,68 #7f080087 app:id/adaptive}child view android.widget.FrameLayout{421f3ba8 V.E..... ......ID 0,0-760,64 #1020364 android:id/status_bar_latest_event_content} measured out of bounds at 64px clamped to 68px
+12-12 20:47:25.204   991   991 D SizeAdaptiveLayout: com.android.internal.widget.SizeAdaptiveLayout{421f17a8 V.E..... ......ID 0,0-760,68 #7f080087 app:id/adaptive}child view android.widget.FrameLayout{421f3ba8 V.E..... ......ID 0,0-760,64 #1020364 android:id/status_bar_latest_event_content} measured out of bounds at 64px clamped to 68px
+12-12 20:47:25.204   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:25.204   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:25.204   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:25.204   787  1231 I SpenGestureManager: setFocusWindow181000
+12-12 20:47:25.214   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:25.224   787   867 D PointerIcon: setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+12-12 20:47:25.224   787   867 D PointerIcon: setMouseCustomIcon IconType is same.101
+12-12 20:47:25.224   787   879 D STATUSBAR-StatusBarManagerService: manageDisableList what=0x0 pkg=WindowManager.LayoutParams
+12-12 20:47:25.234   991   991 D SizeAdaptiveLayout: com.android.internal.widget.SizeAdaptiveLayout{421f17a8 V.E..... ......ID 0,0-760,68 #7f080087 app:id/adaptive}child view android.widget.FrameLayout{421f3ba8 V.E..... ......ID 0,0-760,64 #1020364 android:id/status_bar_latest_event_content} measured out of bounds at 64px clamped to 68px
+12-12 20:47:25.244   991   991 D SizeAdaptiveLayout: com.android.internal.widget.SizeAdaptiveLayout{421f17a8 V.E..... ......ID 0,0-760,68 #7f080087 app:id/adaptive}child view android.widget.FrameLayout{421f3ba8 V.E..... ......ID 0,0-760,64 #1020364 android:id/status_bar_latest_event_content} measured out of bounds at 64px clamped to 68px
+12-12 20:47:25.244  1300  1300 D SamsungIME: Magnification Enabled = false
+12-12 20:47:25.274   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:25.284   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:25.294 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> WC:42 [0:0] action : comandroidserverNotificationManagerServiceNotificationArrived
+12-12 20:47:25.294  1300  1304 D dalvikvm: GC_CONCURRENT freed 5719K, 49% free 7296K/14092K, paused 6ms+7ms, total 221ms
+12-12 20:47:25.304   991   991 V PanelView: animationTick called with dtms=0; nothing to do (h=16.946001 v=-2000.0)
+12-12 20:47:25.304   991   991 V PanelView: animationTick called with dtms=0; nothing to do (h=16.946001 v=-2000.0)
+12-12 20:47:25.324   241   241 I SurfaceFlinger: id=25 createSurf (1280x1),1 flag=4, JnputMethod
+12-12 20:47:25.334   991   991 V RecentsWindow: hide mShowing = false
+12-12 20:47:25.344   787  1784 D SSRMv2:TSP:AirViewOnOff: DeviceInfo:: 00000000000
+12-12 20:47:25.344   787  1784 D SSRMv2:TSP:AirViewOnOff: SettingsAirViewInfo:: 000000000
+12-12 20:47:25.344 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> WC:55 [0:0] settings CT : androidappReceiverRestrictedContext@42049bf0
+12-12 20:47:25.344   787  3281 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:25.364 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> UIM:146 [0:0] setContext
+12-12 20:47:25.364  1300  1300 I Adreno-EGL: <qeglDrvAPI_eglInitialize:410>: EGL 1.4 QUALCOMM build:  ()
+12-12 20:47:25.364  1300  1300 I Adreno-EGL: OpenGL ES Shader Compiler Version: E031.24.00.08
+12-12 20:47:25.364  1300  1300 I Adreno-EGL: Build Date: 03/21/14 Fri
+12-12 20:47:25.364  1300  1300 I Adreno-EGL: Local Branch: AU200+patches_03212014
+12-12 20:47:25.364  1300  1300 I Adreno-EGL: Remote Branch: 
+12-12 20:47:25.364  1300  1300 I Adreno-EGL: Local Patches: 
+12-12 20:47:25.364  1300  1300 I Adreno-EGL: Reconstruct Branch: 
+12-12 20:47:25.374 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> UIM:227 [0:0] The widget does not exist in idle!!
+12-12 20:47:25.394   991   991 D STATUSBAR-PhoneStatusBar: makeExpandedInvisible
+12-12 20:47:25.394   991   991 D STATUSBAR-PhoneStatusBar: Mini Controller text scroll : OFF
+12-12 20:47:25.404   991   991 D STATUSBAR-QuickSettingPanel: setSingleLine:true
+12-12 20:47:25.404   787   798 V Vibrator: Called cancel() API - PUID: 1000, PackageName: android
+12-12 20:47:25.404   787   798 W Vibrator: Vibrator.cancel()
+12-12 20:47:25.404   991   991 D STATUSBAR-QuickSettingPanel: updateButtonInfo mButtonWidth : 114 mColumnNumber:7 orien: 2
+12-12 20:47:25.404   787   798 D VibratorService: JNI vibratorOff()
+12-12 20:47:25.404   787   798 D LightsService: [api] [SvcLED] turnOff:: id = 4 (uid: 10016 pid: 991) 
+12-12 20:47:25.404   787   798 D LightsService: [SvcLED] setSvcLedStateLocked:: SvcLEDState : 0x0 -> 0x0 | SvcLED(id=4) set Off
+12-12 20:47:25.404   787   894 D LightsService: [SvcLED] Lux failed to be updated in 700ms. -> handleForcedSvcLEDTasK
+12-12 20:47:25.404   787   894 D LightsService: [SvcLED]  setSvcLedLightLocked :: Current SvcLED(id=3) maintains its priority right
+12-12 20:47:25.414   787  1245 I SpenGestureManager: setFocusWindow21010
+12-12 20:47:25.414   787   879 D STATUSBAR-StatusBarManagerService: manageDisableList what=0x0 pkg=WindowManager.LayoutParams
+12-12 20:47:25.434   787   867 D PointerIcon: setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+12-12 20:47:25.434   787   867 D PointerIcon: setMouseCustomIcon IconType is same.101
+12-12 20:47:25.444   787  1246 W LicenseLogService: log() failed
+12-12 20:47:25.444   787  1246 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@42dfbc68 attribute=null, token = android.os.BinderProxy@42a1a548
+12-12 20:47:25.474 13265 13265 I SELinux : Function: selinux_android_load_priority [0], There is no sepolicy file.
+12-12 20:47:25.474 13265 13265 I SELinux :  
+12-12 20:47:25.474 13265 13265 I SELinux : Function: selinux_android_load_priority [1], There is no sepolicy version file.
+12-12 20:47:25.474 13265 13265 I SELinux :  
+12-12 20:47:25.474 13265 13265 I SELinux : Function: selinux_android_load_priority , priority version is VE=SEPF_SM-T530NU_4.4.2_0028
+12-12 20:47:25.474 13265 13265 I SELinux :  
+12-12 20:47:25.474 13265 13265 I SELinux :  
+12-12 20:47:25.474 13265 13265 I SELinux : selinux_android_seapp_context_reload: seapp_contexts file is loaded from /seapp_contexts
+12-12 20:47:25.494   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:25.494   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:25.494   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:25.504   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:25.524  1300  1300 D OpenGLRenderer: Enabling debug mode 0
+12-12 20:47:25.554   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:25.554   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:25.554   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:25.564  1300  1300 I SamsungIME: drawAllKey
+12-12 20:47:25.584   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:25.604   344 13277 I framebuffer: /data/system/enterprise.conf doesn't exist or cannot be opened
+12-12 20:47:25.634   787   787 D CustomFrequencyManagerService: FrequencyrequestList.getNextMaxCPUCoreRequest, index: 0
+12-12 20:47:25.644   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:25.644   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:25.644   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:25.644   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:25.674   787  3279 I EDMNativeHelperService: isScreenCaptureEnabled
+12-12 20:47:25.704  1300  1304 D dalvikvm: GC_CONCURRENT freed 140K, 36% free 9153K/14092K, paused 3ms+5ms, total 54ms
+12-12 20:47:25.704   787  3280 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:25.764   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:25.764   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:25.764   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:25.764   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:25.794 13265 13265 I Yosemite:lifecycle: ================================================================
+12-12 20:47:25.804 13265 13265 I Yosemite:lifecycle: com.sec.yosemite.tab 14080601.1.55.13 (155130)  CL:1461285
+12-12 20:47:25.804 13265 13265 I Yosemite:lifecycle: ================================================================
+12-12 20:47:25.824   787  3278 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:25.874 13265 13265 W ContextImpl: Implicit intents with startService are not safe: Intent { act=com.sec.msc.android.yosemite.service.remotetv.IRemoteTvService } android.content.ContextWrapper.bindService:529 com.sec.msc.android.yosemite.client.helper.RemoteTvServiceHelper.bindService:-1 com.sec.msc.android.yosemite.client.helper.RemoteTvServiceHelper.bindService:-1 
+12-12 20:47:25.874 13265 13265 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.bindService:1938 android.content.ContextWrapper.bindService:529 com.sec.msc.android.yosemite.client.helper.RemoteTvServiceHelper.bindService:-1 com.sec.msc.android.yosemite.client.helper.RemoteTvServiceHelper.bindService:-1 com.sec.msc.android.yosemite.YosemiteApplication.onCreate:-1 
+12-12 20:47:25.884   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:25.884   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:25.884   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:25.884   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:25.934   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:25.934   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:25.934   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:25.934   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:25.974  1435  1435 I MultiWindowTrayInfo: getAppCnt
+12-12 20:47:25.974  1435  1435 I MultiWindowTrayInfo: getAppCnt
+12-12 20:47:25.974  1435  1435 I MultiWindowTrayInfo: getAppCnt
+12-12 20:47:25.994  1435  1435 I MultiWindowTrayInfo: getAppCnt
+12-12 20:47:25.994  1435  1435 I MultiWindowTrayInfo: getAppCnt
+12-12 20:47:25.994   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:25.994   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:25.994   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:25.994  1435  1435 I MultiWindowTrayInfo: getAppCnt
+12-12 20:47:26.004  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:26.004  1435  1435 I MultiWindowTrayInfo: getAppCnt
+12-12 20:47:26.004  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:26.004  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:26.014   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:26.014  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:26.024  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:26.034  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:26.034  1300  1300 D SamsungIME: Dismiss ExpandCandiate
+12-12 20:47:26.034  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:26.044 13265 13265 I Process : Sending signal. PID: 13265 SIG: 9
+12-12 20:47:26.044  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:26.054   787  1165 I ActivityManager: Process com.sec.yosemite.tab (pid 13265) (adj 0) has died.
+12-12 20:47:26.064  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:26.074   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.074   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.074   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:26.074  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:26.084  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:26.084   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:26.084  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:26.094  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:26.104  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:26.104  1300  1300 D SamsungIME: Dismiss ExpandCandiate
+12-12 20:47:26.134   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.134   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.134   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:26.154   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:26.204   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.204   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.204   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:26.204   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:26.264   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.264   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.264   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:26.274   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:26.324   787   951 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:26.374   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.374   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.374   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:26.384   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:26.434   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.434   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.434   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:26.434   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:26.494   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.494   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.494   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:26.494   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:26.544   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:26.554   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:26.564   991   991 V PanelView: animationTick called with dtms=0; nothing to do (h=0.0 v=-0.0)
+12-12 20:47:26.604   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.604   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.604   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:26.604   787   875 W ActivityManager: mDVFSHelper.release()
+12-12 20:47:26.614   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:26.664   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.664   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.664   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:26.664   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:26.714   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.714   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.714   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:26.724   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:26.774   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.774   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.774   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:26.774   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:26.834   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.834   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.834   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:26.844   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:26.894   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.894   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.894   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:26.904   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:26.914   787   887 D PackageManager: [MSG] MCS_UNBIND
+12-12 20:47:26.914   787   887 I PackageManager: calling disconnectService()
+12-12 20:47:26.914   787   887 D PackageManager: Trying to unbind to DefaultContainerService
+12-12 20:47:26.954   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.954   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:26.954   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:26.964   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:27.014   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.014   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.014   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:27.024   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:27.074   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.074   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.074   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:27.084   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:27.134   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.134   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.134   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:27.134   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:27.154  1300  1300 D SamsungIME: onStartInputView
+12-12 20:47:27.174  1300  1300 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1509 android.content.ContextWrapper.sendBroadcast:377 com.diotek.ime.framework.common.InputManagerImpl.sendInputLanguage:9353 com.diotek.ime.framework.common.InputManagerImpl.initDefaultLanguage:4901 com.diotek.ime.framework.common.InputManagerImpl.initSelectedLanguage:5143 
+12-12 20:47:27.184  1300  1300 I SamsungIME: getDebugLevel  : 0x4f4c
+12-12 20:47:27.184   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.184   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.184   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:27.194   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:27.204  1300  1300 I SamsungIME: getDebugLevel  : 0x4f4c
+12-12 20:47:27.214  1300  1300 I SamsungIME: KeybaordView init() : load resources
+12-12 20:47:27.224   787   863 D SensorService:   0.1 -0.1 9.8
+12-12 20:47:27.244   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.244   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.244   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:27.244  1300  1300 I SamsungIME: getCurrentKeyboard
+12-12 20:47:27.244  1300  1300 I SamsungIME: getTextKeyboard
+12-12 20:47:27.254   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:27.274  1300  1300 D SamsungIME: [SwiftkeyWrapper] currentLangauge : 1701729619
+12-12 20:47:27.274  1300  1300 D SamsungIME: [AbstractKeyboardView] onDetachedFromWindow.
+12-12 20:47:27.274  1300  1300 D SamsungIME: Magnification Enabled = false
+12-12 20:47:27.274  1300  1300 D SamsungIME: [AbstractKeyboardView] onDetachedFromWindow.
+12-12 20:47:27.274  1300  1300 I SamsungIME: getCurrentKeyboard
+12-12 20:47:27.274  1300  1300 I SamsungIME: getTextKeyboard
+12-12 20:47:27.284  1300  1300 D SamsungIME: [SwiftkeyWrapper] currentLangauge : 1701729619
+12-12 20:47:27.284  1300  1300 D SamsungIME: Magnification Enabled = false
+12-12 20:47:27.284  1300  1300 D SamsungIME: Dismiss ExpandCandiate
+12-12 20:47:27.304   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.304   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.304   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:27.314   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:27.314  1300  1300 D SamsungIME: Dismiss ExpandCandiate
+12-12 20:47:27.314  1300  1300 D SamsungIME: Dismiss ExpandCandiate
+12-12 20:47:27.314  1300  1300 I SamsungIME: getCurrentKeyboard
+12-12 20:47:27.314  1300  1300 I SamsungIME: getTextKeyboard
+12-12 20:47:27.314  1300  1300 D SamsungIME: [SwiftkeyWrapper] currentLangauge : 1701729619
+12-12 20:47:27.314  1300  1300 D SamsungIME: Dismiss ExpandCandiate
+12-12 20:47:27.314  1300  1300 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1509 android.content.ContextWrapper.sendBroadcast:377 com.diotek.ime.framework.common.InputManagerImpl.sendInputLanguage:9353 com.diotek.ime.framework.common.InputManagerImpl.setLanguage:5477 com.diotek.ime.framework.common.InputManagerImpl.startInputViewContinue:3348 
+12-12 20:47:27.324  1300  1300 I SamsungIME: [IMI] startInputView - caller pid : 13215, caller uid : 13112
+12-12 20:47:27.324  1300  1300 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1509 android.content.ContextWrapper.sendBroadcast:377 android.inputmethodservice.InputMethodService.sendInputViewShownState:539 android.inputmethodservice.InputMethodService.showWindow:2161 android.inputmethodservice.InputMethodService$InputMethodImpl.showSoftInput:716 
+12-12 20:47:27.324   787  1784 D SSRMv2:TSP:AirViewOnOff: DeviceInfo:: 00000000000
+12-12 20:47:27.324   787  1784 D SSRMv2:TSP:AirViewOnOff: SettingsAirViewInfo:: 000000000
+12-12 20:47:27.334  1300  1300 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1509 android.content.ContextWrapper.sendBroadcast:377 android.inputmethodservice.InputMethodService.sendInputViewShownState:539 android.inputmethodservice.InputMethodService.showWindow:2161 android.inputmethodservice.InputMethodService$InputMethodImpl.showSoftInput:716 
+12-12 20:47:27.334   787   787 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1523 com.android.server.StatusBarManagerService.sendNotification:981 com.android.server.StatusBarManagerService.updateNotification:690 com.android.server.NotificationManagerService$7.run:2134 android.os.Handler.handleCallback:733 
+12-12 20:47:27.344   344 13297 I framebuffer: /data/system/enterprise.conf doesn't exist or cannot be opened
+12-12 20:47:27.344   787   787 D STATUSBAR-StatusBarManagerService: sendNotification(2) - 17041255
+12-12 20:47:27.344   787  1784 D SSRMv2:TSP:AirViewOnOff: DeviceInfo:: 00000000000
+12-12 20:47:27.344 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> WC:42 [0:0] action : comandroidserverNotificationManagerServiceNotificationArrived
+12-12 20:47:27.344   787  1784 D SSRMv2:TSP:AirViewOnOff: SettingsAirViewInfo:: 000000000
+12-12 20:47:27.354 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> WC:55 [0:0] settings CT : androidappReceiverRestrictedContext@42049bf0
+12-12 20:47:27.354 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> UIM:146 [0:0] setContext
+12-12 20:47:27.354 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> UIM:227 [0:0] The widget does not exist in idle!!
+12-12 20:47:27.354   787   787 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1523 com.android.server.StatusBarManagerService.sendNotification:981 com.android.server.StatusBarManagerService.updateNotification:690 com.android.server.NotificationManagerService$7.run:2134 android.os.Handler.handleCallback:733 
+12-12 20:47:27.354   787   787 D STATUSBAR-StatusBarManagerService: sendNotification(2) - 17041255
+12-12 20:47:27.364 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> WC:42 [0:0] action : comandroidserverNotificationManagerServiceNotificationArrived
+12-12 20:47:27.364   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.364   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.364   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:27.364 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> WC:55 [0:0] settings CT : androidappReceiverRestrictedContext@42049bf0
+12-12 20:47:27.364   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:27.374 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> UIM:146 [0:0] setContext
+12-12 20:47:27.374 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> UIM:227 [0:0] The widget does not exist in idle!!
+12-12 20:47:27.394  1300  1300 D dalvikvm: GC_FOR_ALLOC freed 2577K, 48% free 7332K/14092K, paused 39ms, total 39ms
+12-12 20:47:27.404   787  3281 I EDMNativeHelperService: isScreenCaptureEnabled
+12-12 20:47:27.404  1300  1300 I SamsungIME: drawAllKey
+12-12 20:47:27.424   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.424   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.424   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:27.424   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:27.474   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.474   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.474   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:27.474   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:27.484  1300  1304 D dalvikvm: GC_CONCURRENT freed 145K, 36% free 9158K/14092K, paused 2ms+4ms, total 29ms
+12-12 20:47:27.534   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.534   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.534   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:27.534   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:27.564   787 13302 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1509 com.android.server.InputMethodManagerService$4.run:2683 java.lang.Thread.run:841 <bottom of call stack> <bottom of call stack> 
+12-12 20:47:27.584   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.584   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.584   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:27.594   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:27.644   787   787 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1523 com.android.server.StatusBarManagerService.sendNotification:981 com.android.server.StatusBarManagerService.removeNotification:706 com.android.server.NotificationManagerService.cancelNotificationLocked:2455 com.android.server.NotificationManagerService.access$5100:160 
+12-12 20:47:27.644   787   787 D NotificationService: cancelNotificationLocked
+12-12 20:47:27.644   787   787 D NotificationService:  hasClearableItems
+12-12 20:47:27.644   787   787 D NotificationService:  has clearable items no 
+12-12 20:47:27.644  1300  1300 D SamsungIME: onWindowHidden
+12-12 20:47:27.644   787   787 D NotificationService: cancelNotificationLocked: cancel alarm
+12-12 20:47:27.644   787   787 D NotificationService: cancelNotificationLocked: cancel alarm
+12-12 20:47:27.644   787   787 D STATUSBAR-StatusBarManagerService: sendNotification(3) - 17041255
+12-12 20:47:27.644  1300  1300 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1509 android.content.ContextWrapper.sendBroadcast:377 android.inputmethodservice.InputMethodService.sendInputViewShownState:539 android.inputmethodservice.InputMethodService.hideWindow:2300 android.inputmethodservice.InputMethodService.doHideWindow:2278 
+12-12 20:47:27.644   787   787 D LightsService: [api] [SvcLED] turnOff:: id = 4 (uid: 1000 pid: 787) 
+12-12 20:47:27.654   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.654   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.654   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:27.654   991   991 D STATUSBAR-IconMerger: checkOverflow(1036), More:false, Req:false Child:4
+12-12 20:47:27.654   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:27.664   787   787 D LightsService: [SvcLED] setSvcLedStateLocked:: SvcLEDState : 0x0 -> 0x0 | SvcLED(id=4) set Off
+12-12 20:47:27.664   787   894 D LightsService: [SvcLED] Lux failed to be updated in 700ms. -> handleForcedSvcLEDTasK
+12-12 20:47:27.664   787   894 D LightsService: [SvcLED]  setSvcLedLightLocked :: Current SvcLED(id=3) maintains its priority right
+12-12 20:47:27.664   787  1784 D SSRMv2:TSP:AirViewOnOff: DeviceInfo:: 00000000000
+12-12 20:47:27.664   787  1784 D SSRMv2:TSP:AirViewOnOff: SettingsAirViewInfo:: 000000000
+12-12 20:47:27.714   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.714   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.714   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:27.714   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:27.774   787  1245 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:27.834   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.834   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.834   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:27.844   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:27.894   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.894   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.894   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:27.904   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:27.914   241   466 I SurfaceFlinger: id=25 Removed JnputMethod (9/12)
+12-12 20:47:27.914   241 13243 I SurfaceFlinger: id=25 Removed JnputMethod (-2/12)
+12-12 20:47:27.954   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.954   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:27.954   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:27.964   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:28.014   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.014   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.014   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:28.014   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:28.034   787   875 W ActivityManager: mDVFSHelper.release()
+12-12 20:47:28.074   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.074   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.074   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:28.084   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:28.134   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.134   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.134   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:28.134   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:28.184   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:28.184   787  3279 I ActivityManager: Killing 12429:com.sec.android.provider.badge/u0a67 (adj 15): empty #31
+12-12 20:47:28.194   991   991 V PanelView: animationTick called with dtms=0; nothing to do (h=0.0 v=-0.0)
+12-12 20:47:28.194   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:28.244   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.244   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.244   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:28.254   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:28.304   787  6082 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:28.344   787   875 W ActivityManager: mDVFSHelper.release()
+12-12 20:47:28.354   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.354   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.364   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:28.364   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:28.424   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.424   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.424   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:28.424   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:28.474   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.474   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.474   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:28.484   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:28.534   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.534   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.534   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:28.534   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:28.594   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.594   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.594   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:28.594   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:28.644   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.644   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.644   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:28.644   787   901 D PowerManagerService: [api] userActivityFromNative : 10 (event: 2 flags: 0)
+12-12 20:47:28.664   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:28.714   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.714   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.714   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:28.714   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:28.764   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.764   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.764   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:28.774   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:28.824   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.824   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.824   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:28.834   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:28.884   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.884   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.884   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:28.884   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:28.934   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.934   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.934   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:28.944   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:28.994   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.994   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:28.994   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:29.004   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:29.054   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:29.064   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:29.064   991   991 V PanelView: animationTick called with dtms=0; nothing to do (h=0.0 v=-0.0)
+12-12 20:47:29.114   787  1166 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:29.164   344 13317 I framebuffer: /data/system/enterprise.conf doesn't exist or cannot be opened
+12-12 20:47:29.174   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:29.174   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:29.174   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:29.174   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:29.224   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:29.224   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:29.224   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:29.224   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:29.234   787  1216 I EDMNativeHelperService: isScreenCaptureEnabled
+12-12 20:47:29.284   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:29.284   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:29.284   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:29.284   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:29.324   787   875 W ActivityManager: mDVFSHelper.release()
+12-12 20:47:29.334   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:29.334   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:29.334   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:29.344   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:29.394   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:29.394   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:29.394   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:29.394   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:29.444   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:29.444   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:29.444   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:29.454   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:29.504   787  1060 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:29.564   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:29.564   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:29.564   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:29.564   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:29.624   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:29.624   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:29.624   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:29.624   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:29.674   787  6082 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:29.724   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:29.724   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:29.724   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:29.734   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:29.784   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:29.784   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:29.784   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:29.794   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:29.814   787  1166 I SpenGestureManager: setFocusWindow0
+12-12 20:47:29.814   787   867 D PointerIcon: setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+12-12 20:47:29.814   787   867 D PointerIcon: setMouseCustomIcon IconType is same.101
+12-12 20:47:29.844   241   241 I SurfaceFlinger: id=26 createSurf (1x1),1 flag=4, NainActivit
+12-12 20:47:29.854   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:29.854   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:29.854   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:29.854   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:29.864 13215 13215 D ProgressBar: updateDrawableBounds: left = 0
+12-12 20:47:29.864 13215 13215 D ProgressBar: updateDrawableBounds: top = 0
+12-12 20:47:29.864 13215 13215 D ProgressBar: updateDrawableBounds: right = 48
+12-12 20:47:29.864 13215 13215 D ProgressBar: updateDrawableBounds: bottom = 48
+12-12 20:47:29.904   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:29.904   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:29.904   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:29.914   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:29.954   787  1216 I SpenGestureManager: setFocusWindow21010
+12-12 20:47:29.954   787   867 D PointerIcon: setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+12-12 20:47:29.954   787   867 D PointerIcon: setMouseCustomIcon IconType is same.101
+12-12 20:47:29.964 13215 13215 W InputEventReceiver: Attempted to finish an input event but the input event receiver has already been disposed.
+12-12 20:47:29.964 13215 13215 W InputEventReceiver: Attempted to finish an input event but the input event receiver has already been disposed.
+12-12 20:47:29.964   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:29.964   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:29.964   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:29.964 13215 13215 W ViewRootImpl: Dropping event due to root view being removed: MotionEvent { action=ACTION_UP, id[0]=0, x[0]=-149.22484, y[0]=343.9735, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7937729, downTime=7937726, deviceId=0, source=0x1002 }
+12-12 20:47:29.974   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:29.984 11387 11652 W ConfigurationChimeraPro: Got null configs for com.google.android.gms.common_auth
+12-12 20:47:29.994 13215 13215 E ViewRootImpl: sendUserActionEvent() mView == null
+12-12 20:47:30.014   787   797 W LicenseLogService: log() failed
+12-12 20:47:30.014   787   797 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@42763ae8 attribute=null, token = android.os.BinderProxy@42a1a548
+12-12 20:47:30.024   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.024   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.024   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:30.024   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:30.094   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.094   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.094   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:30.094   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:30.094 13215 13224 I dalvikvm: Total arena pages for JIT: 11
+12-12 20:47:30.094 13215 13224 I dalvikvm: Total arena pages for JIT: 12
+12-12 20:47:30.104 13215 13224 I dalvikvm: Total arena pages for JIT: 13
+12-12 20:47:30.104 13215 13224 I dalvikvm: Total arena pages for JIT: 14
+12-12 20:47:30.144   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.144   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.154   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:30.154   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:30.164 11728 12147 I Auth    : [ReflectiveChannelBinder] Successfully bound channel!
+12-12 20:47:30.164 11728 12147 E BaseAppContext: Tried to stop global GMSCore RequestQueue. This is likely unintended, so ignoring.
+12-12 20:47:30.194 13215 13244 I FA      : Tag Manager is not found and thus will not be used
+12-12 20:47:30.204 11728 11841 I AuthChimeraService: Executing request: ProxyRequest[ url: https://www.googleapis.com/identitytoolkit/v3/relyingparty/signupNewUser?alt=proto&key=AIzaSyAlPR096sOohVB9d0xuRCe1M34wBO-crBA, method: 1 ]
+12-12 20:47:30.214   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.214   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.214   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:30.214   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:30.224   241   466 I SurfaceFlinger: id=26 Removed NainActivit (9/12)
+12-12 20:47:30.224   241   466 I SurfaceFlinger: id=26 Removed NainActivit (-2/12)
+12-12 20:47:30.274   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.274   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.274   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:30.274   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:30.324   787   787 D CustomFrequencyManagerService: FrequencyrequestList.getNextMaxCPUCoreRequest, index: 0
+12-12 20:47:30.334   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.334   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.334   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:30.334   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:30.354 11728 13326 W Conscrypt: Could not set socket write timeout:
+12-12 20:47:30.354 11728 13326 W Conscrypt:    java.lang.reflect.Method.invokeNative(Native Method)
+12-12 20:47:30.354 11728 13326 W Conscrypt:    java.lang.reflect.Method.invoke(Method.java:515)
+12-12 20:47:30.384   787  1216 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:30.394   991   991 D STATUSBAR-NetworkController: refreshSignalCluster - setNWBoosterIndicators(false)
+12-12 20:47:30.394   991   991 D STATUSBAR-NetworkController: refreshSignalCluster: data=-1 bt=false
+12-12 20:47:30.404   991   991 D STATUSBAR-IconMerger: checkOverflow(1036), More:false, Req:false Child:4
+12-12 20:47:30.444   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.444   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.444   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:30.444   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:30.504 11728 11732 D dalvikvm: GC_CONCURRENT freed 2354K, 60% free 10013K/24428K, paused 7ms+7ms, total 77ms
+12-12 20:47:30.504   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.504   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.504   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:30.504   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:30.524   787   863 D SensorService:   0.1 -0.1 9.8
+12-12 20:47:30.554   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.554   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.554   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:30.564   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:30.564 11728 13326 W Conscrypt: Could not set socket write timeout:
+12-12 20:47:30.564 11728 13326 W Conscrypt:    java.lang.reflect.Method.invokeNative(Native Method)
+12-12 20:47:30.564 11728 13326 W Conscrypt:    java.lang.reflect.Method.invoke(Method.java:515)
+12-12 20:47:30.614   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.614   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.614   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:30.614   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:30.674   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.674   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.674   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:30.674   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:30.724   787  1060 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:30.754 11728 13326 E Volley  : [818] BasicNetwork.performRequest: Unexpected response code 400 for https://www.googleapis.com/identitytoolkit/v3/relyingparty/signupNewUser?alt=proto&key=AIzaSyAlPR096sOohVB9d0xuRCe1M34wBO-crBA
+12-12 20:47:30.754 11728 11841 I AuthChimeraService: Error description received from server: INVALID_EMAIL
+12-12 20:47:30.754 11728 12421 W FirebaseAuth: [PhoneNumberAuthPostProcessor] postProcess starts
+12-12 20:47:30.764 11728 12421 W FirebaseAuth: [PhoneNumberAuthPostProcessor] postProcess ends
+12-12 20:47:30.774   787   875 W ActivityManager: mDVFSHelper.release()
+12-12 20:47:30.784   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.784   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.784   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:30.784   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:30.784   241   241 I SurfaceFlinger: id=27 createSurf (1x1),1 flag=4, Uoast
+12-12 20:47:30.794   787  1166 D PowerManagerService: [api] acquire WakeLock flags=0x2000000a tag=WindowManager uid=1000 pid=787
+12-12 20:47:30.834   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.834   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.834   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.834   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:30.834   787   951 I NotificationService: cancelToast pkg=com.example.snoopy callback=android.app.ITransientNotification$Stub$Proxy@43386228
+12-12 20:47:30.844   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:30.844   787  3280 D PowerManagerService: [api] [s] userActivity : event: 0 flags: 0 (uid: 1000 pid: 787)
+12-12 20:47:30.844   787  3280 D PowerManagerService: [api] release WakeLock flags=0x2000000a tag=WindowManager uid=1000 pid=787 (0x0)
+12-12 20:47:30.844   787  3280 D PowerManagerService: [api] applyWakeLockFlagsOnReleaseLocked : userActivityNoUpdateLocked is called : SCREEN_BRIGHT_WAKE_LOCK        'WindowManager' ON_AFTER_RELEASE (uid=1000, pid=787, ws=WorkSource{13112}) (elapsedTime=51)
+12-12 20:47:30.904   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.904   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.904   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:30.904   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:30.964   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.964   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:30.964   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:30.964   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:30.984   344 13345 I framebuffer: /data/system/enterprise.conf doesn't exist or cannot be opened
+12-12 20:47:31.024   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:31.024   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:31.024   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:31.044   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:31.054   787   797 I EDMNativeHelperService: isScreenCaptureEnabled
+12-12 20:47:31.064 13349 13349 I SELinux : Function: selinux_android_load_priority [0], There is no sepolicy file.
+12-12 20:47:31.064 13349 13349 I SELinux :  
+12-12 20:47:31.064 13349 13349 I SELinux : Function: selinux_android_load_priority [1], There is no sepolicy version file.
+12-12 20:47:31.064 13349 13349 I SELinux :  
+12-12 20:47:31.064 13349 13349 I SELinux : Function: selinux_android_load_priority , priority version is VE=SEPF_SM-T530NU_4.4.2_0028
+12-12 20:47:31.064 13349 13349 I SELinux :  
+12-12 20:47:31.064 13349 13349 I SELinux :  
+12-12 20:47:31.064 13349 13349 I SELinux : selinux_android_seapp_context_reload: seapp_contexts file is loaded from /seapp_contexts
+12-12 20:47:31.094   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:31.104   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:31.104   991   991 V PanelView: animationTick called with dtms=0; nothing to do (h=0.0 v=-2294.4478)
+12-12 20:47:31.164   787  1215 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:31.224   787  1165 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:31.284   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:31.284   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:31.284   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:31.284   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:31.304   787   875 W ActivityManager: mDVFSHelper.release()
+12-12 20:47:31.344   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:31.344   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:31.344   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:31.344   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:31.384   241  1177 I SurfaceFlinger: id=27 Removed Uoast (12/12)
+12-12 20:47:31.384   241   883 I SurfaceFlinger: id=27 Removed Uoast (-2/12)
+12-12 20:47:31.394   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:31.394   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:31.394   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:31.394   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:31.454   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:31.454   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:31.454   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:31.464   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:31.514   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:31.514   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:31.514   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:31.514   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:31.564   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:31.564   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:31.564   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:31.574   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:31.604   787  3280 I SpenGestureManager: setFocusWindow0
+12-12 20:47:31.604   787   867 D PointerIcon: setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+12-12 20:47:31.604   787   867 D PointerIcon: setMouseCustomIcon IconType is same.101
+12-12 20:47:31.614   241   241 I SurfaceFlinger: id=28 createSurf (1x1),1 flag=4, NainActivit
+12-12 20:47:31.634 11728 11841 I AuthChimeraService: Executing request: ProxyRequest[ url: https://www.googleapis.com/identitytoolkit/v3/relyingparty/signupNewUser?alt=proto&key=AIzaSyAlPR096sOohVB9d0xuRCe1M34wBO-crBA, method: 1 ]
+12-12 20:47:31.634   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:31.634   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:31.634   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:31.634   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:31.684   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:31.684   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:31.684   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:31.694   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:31.714   787  1245 W ActivityManager: Permission Denial: getCurrentUser() from pid=13349, uid=10031 requires android.permission.INTERACT_ACROSS_USERS
+12-12 20:47:31.724   787  3280 I SpenGestureManager: setFocusWindow21010
+12-12 20:47:31.724   787   867 D PointerIcon: setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+12-12 20:47:31.724   787   867 D PointerIcon: setMouseCustomIcon IconType is same.101
+12-12 20:47:31.734 13215 13215 W InputEventReceiver: Attempted to finish an input event but the input event receiver has already been disposed.
+12-12 20:47:31.734 13215 13215 W InputEventReceiver: Attempted to finish an input event but the input event receiver has already been disposed.
+12-12 20:47:31.734 13215 13215 W InputEventReceiver: Attempted to finish an input event but the input event receiver has already been disposed.
+12-12 20:47:31.734 13215 13215 W ViewRootImpl: Dropping event due to root view being removed: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=893.69434, y[0]=-101.94754, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=7939513, downTime=7939507, deviceId=0, source=0x1002 }
+12-12 20:47:31.734 13215 13215 W ViewRootImpl: Dropping event due to root view being removed: MotionEvent { action=ACTION_UP, id[0]=0, x[0]=880.25073, y[0]=-112.146484, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7939515, downTime=7939507, deviceId=0, source=0x1002 }
+12-12 20:47:31.744   787   797 W LicenseLogService: log() failed
+12-12 20:47:31.744 13215 13215 E ViewRootImpl: sendUserActionEvent() mView == null
+12-12 20:47:31.744   787   797 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@42a85a60 attribute=null, token = android.os.BinderProxy@42a1a548
+12-12 20:47:31.754   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:31.754   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:31.754   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:31.774   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:31.834   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:31.834   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:31.834   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:31.844   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:31.904   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:31.904   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:31.904   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:31.904   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:31.924 11728 13327 E Volley  : [819] BasicNetwork.performRequest: Unexpected response code 400 for https://www.googleapis.com/identitytoolkit/v3/relyingparty/signupNewUser?alt=proto&key=AIzaSyAlPR096sOohVB9d0xuRCe1M34wBO-crBA
+12-12 20:47:31.924 11728 11841 I AuthChimeraService: Error description received from server: INVALID_EMAIL
+12-12 20:47:31.944 11728 11841 W FirebaseAuth: [PhoneNumberAuthPostProcessor] postProcess starts
+12-12 20:47:31.944 11728 11841 W FirebaseAuth: [PhoneNumberAuthPostProcessor] postProcess ends
+12-12 20:47:31.964   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:31.964   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:31.964   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:31.964   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:31.974 11728 12147 I IcingInternalCorpora: EventIndexer: starting full update
+12-12 20:47:31.974 11728 12147 I IcingInternalCorpora: EventIndexer: 0 added, 0 removed, 0 changed, 0 unchanged, 0 errors.
+12-12 20:47:31.974 11728 12147 I IcingInternalCorpora: EventIndexer: finished after 1 ms.
+12-12 20:47:31.984   241  1177 I SurfaceFlinger: id=28 Removed NainActivit (9/12)
+12-12 20:47:31.984   241   466 I SurfaceFlinger: id=28 Removed NainActivit (-2/12)
+12-12 20:47:31.994   241   241 I SurfaceFlinger: id=29 createSurf (1x1),1 flag=4, Uoast
+12-12 20:47:32.014   787  1215 D PowerManagerService: [api] acquire WakeLock flags=0x2000000a tag=WindowManager uid=1000 pid=787
+12-12 20:47:32.024   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.024   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.024   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.024   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:32.024   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:32.024   787  1245 I NotificationService: cancelToast pkg=com.example.snoopy callback=android.app.ITransientNotification$Stub$Proxy@428b3ff8
+12-12 20:47:32.054   787   951 D PowerManagerService: [api] [s] userActivity : event: 0 flags: 0 (uid: 1000 pid: 787)
+12-12 20:47:32.054   787   951 D PowerManagerService: [api] release WakeLock flags=0x2000000a tag=WindowManager uid=1000 pid=787 (0x0)
+12-12 20:47:32.054   787   951 D PowerManagerService: [api] applyWakeLockFlagsOnReleaseLocked : userActivityNoUpdateLocked is called : SCREEN_BRIGHT_WAKE_LOCK        'WindowManager' ON_AFTER_RELEASE (uid=1000, pid=787, ws=WorkSource{13112}) (elapsedTime=44)
+12-12 20:47:32.084   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.084   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.084   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:32.084   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:32.134   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.144   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.144   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:32.144   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:32.204   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.204   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.204   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:32.204   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:32.254   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.254   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.254   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:32.254   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:32.274   991   991 D STATUSBAR-PhoneStatusBar: makeExpandedVisible
+12-12 20:47:32.274   991   991 D STATUSBAR-QuickSettingPanel: setSingleLine:true
+12-12 20:47:32.274   991   991 D STATUSBAR-QuickSettingPanel: updateButtonInfo mButtonWidth : 114 mColumnNumber:7 orien: 2
+12-12 20:47:32.274   787  3280 V Vibrator: Called cancel() API - PUID: 1000, PackageName: android
+12-12 20:47:32.274   787  3280 W Vibrator: Vibrator.cancel()
+12-12 20:47:32.274   991   991 D STATUSBAR-PhoneStatusBar: Mini Controller text scroll : ON
+12-12 20:47:32.274   787  3280 D VibratorService: JNI vibratorOff()
+12-12 20:47:32.274   787  3280 D LightsService: [api] [SvcLED] turnOff:: id = 4 (uid: 10016 pid: 991) 
+12-12 20:47:32.274   787  3280 D LightsService: [SvcLED] setSvcLedStateLocked:: SvcLEDState : 0x0 -> 0x0 | SvcLED(id=4) set Off
+12-12 20:47:32.274   787   894 D LightsService: [SvcLED] Lux failed to be updated in 700ms. -> handleForcedSvcLEDTasK
+12-12 20:47:32.274   787   894 D LightsService: [SvcLED]  setSvcLedLightLocked :: Current SvcLED(id=3) maintains its priority right
+12-12 20:47:32.284   787  6082 I AudioService: getStreamVolume 5 index 0
+12-12 20:47:32.314   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.314   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.314   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:32.314   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:32.354   991   991 D dalvikvm: GC_EXPLICIT freed 8660K, 41% free 21842K/36496K, paused 4ms+12ms, total 68ms
+12-12 20:47:32.364   787  3281 I SpenGestureManager: setFocusWindow181000
+12-12 20:47:32.364   787   879 D STATUSBAR-StatusBarManagerService: manageDisableList what=0x0 pkg=WindowManager.LayoutParams
+12-12 20:47:32.374   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:32.374   787   867 D PointerIcon: setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+12-12 20:47:32.374   787   867 D PointerIcon: setMouseCustomIcon IconType is same.101
+12-12 20:47:32.394   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:32.394   991   991 V PanelView: animationTick called with dtms=0; nothing to do (h=0.43438822 v=-2000.0)
+12-12 20:47:32.404   991   991 V PanelView: animationTick called with dtms=0; nothing to do (h=0.43438822 v=-2000.0)
+12-12 20:47:32.404   991   991 V PanelView: animationTick called with dtms=-2; nothing to do (h=0.43438822 v=-2000.0)
+12-12 20:47:32.414   991   991 V RecentsWindow: hide mShowing = false
+12-12 20:47:32.414   787  1784 D SSRMv2:TSP:AirViewOnOff: DeviceInfo:: 00000000000
+12-12 20:47:32.414   787  1784 D SSRMv2:TSP:AirViewOnOff: SettingsAirViewInfo:: 000000000
+12-12 20:47:32.444 13370 13370 I SELinux : Function: selinux_android_load_priority [0], There is no sepolicy file.
+12-12 20:47:32.444 13370 13370 I SELinux :  
+12-12 20:47:32.444 13370 13370 I SELinux : Function: selinux_android_load_priority [1], There is no sepolicy version file.
+12-12 20:47:32.444 13370 13370 I SELinux :  
+12-12 20:47:32.444 13370 13370 I SELinux : Function: selinux_android_load_priority , priority version is VE=SEPF_SM-T530NU_4.4.2_0028
+12-12 20:47:32.444 13370 13370 I SELinux :  
+12-12 20:47:32.444 13370 13370 I SELinux :  
+12-12 20:47:32.444 13370 13370 I SELinux : selinux_android_seapp_context_reload: seapp_contexts file is loaded from /seapp_contexts
+12-12 20:47:32.444   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:32.454   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:32.454   991   991 V RecentsWindow: hide mShowing = false
+12-12 20:47:32.474   991   991 D STATUSBAR-PhoneStatusBar: makeExpandedInvisible
+12-12 20:47:32.474   991   991 D STATUSBAR-PhoneStatusBar: Mini Controller text scroll : OFF
+12-12 20:47:32.474   787  6082 V Vibrator: Called cancel() API - PUID: 1000, PackageName: android
+12-12 20:47:32.474   787  6082 W Vibrator: Vibrator.cancel()
+12-12 20:47:32.474   991   991 D STATUSBAR-QuickSettingPanel: setSingleLine:true
+12-12 20:47:32.474   991   991 D STATUSBAR-QuickSettingPanel: updateButtonInfo mButtonWidth : 114 mColumnNumber:7 orien: 2
+12-12 20:47:32.474   787  6082 D VibratorService: JNI vibratorOff()
+12-12 20:47:32.474   787  6082 D LightsService: [api] [SvcLED] turnOff:: id = 4 (uid: 10016 pid: 991) 
+12-12 20:47:32.474   787  6082 D LightsService: [SvcLED] setSvcLedStateLocked:: SvcLEDState : 0x0 -> 0x0 | SvcLED(id=4) set Off
+12-12 20:47:32.474   787   894 D LightsService: [SvcLED] Lux failed to be updated in 700ms. -> handleForcedSvcLEDTasK
+12-12 20:47:32.474   787   894 D LightsService: [SvcLED]  setSvcLedLightLocked :: Current SvcLED(id=3) maintains its priority right
+12-12 20:47:32.484   787  1216 I SpenGestureManager: setFocusWindow21010
+12-12 20:47:32.484   787   879 D STATUSBAR-StatusBarManagerService: manageDisableList what=0x0 pkg=WindowManager.LayoutParams
+12-12 20:47:32.504   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.504   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.514   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:32.514   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:32.514   787   867 D PointerIcon: setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+12-12 20:47:32.514   787   867 D PointerIcon: setMouseCustomIcon IconType is same.101
+12-12 20:47:32.544   787  1231 W LicenseLogService: log() failed
+12-12 20:47:32.544   787  1231 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@42b49198 attribute=null, token = android.os.BinderProxy@42a1a548
+12-12 20:47:32.564   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.564   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.564   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:32.564   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:32.584   241   466 I SurfaceFlinger: id=29 Removed Uoast (12/12)
+12-12 20:47:32.584   241 13243 I SurfaceFlinger: id=29 Removed Uoast (-2/12)
+12-12 20:47:32.614 13370 13370 I Yosemite:lifecycle: ================================================================
+12-12 20:47:32.614 13370 13370 I Yosemite:lifecycle: com.sec.yosemite.tab 14080601.1.55.13 (155130)  CL:1461285
+12-12 20:47:32.614 13370 13370 I Yosemite:lifecycle: ================================================================
+12-12 20:47:32.624   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.624   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.624   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:32.624   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:32.644 13370 13370 W ContextImpl: Implicit intents with startService are not safe: Intent { act=com.sec.msc.android.yosemite.service.remotetv.IRemoteTvService } android.content.ContextWrapper.bindService:529 com.sec.msc.android.yosemite.client.helper.RemoteTvServiceHelper.bindService:-1 com.sec.msc.android.yosemite.client.helper.RemoteTvServiceHelper.bindService:-1 
+12-12 20:47:32.644 13370 13370 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.bindService:1938 android.content.ContextWrapper.bindService:529 com.sec.msc.android.yosemite.client.helper.RemoteTvServiceHelper.bindService:-1 com.sec.msc.android.yosemite.client.helper.RemoteTvServiceHelper.bindService:-1 com.sec.msc.android.yosemite.YosemiteApplication.onCreate:-1 
+12-12 20:47:32.674   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.674   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.674   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:32.674   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:32.684 13370 13370 I Process : Sending signal. PID: 13370 SIG: 9
+12-12 20:47:32.694   787  1216 I ActivityManager: Process com.sec.yosemite.tab (pid 13370) (adj 0) has died.
+12-12 20:47:32.724   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.724   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.724   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:32.734   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:32.784   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.784   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.784   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:32.794   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:32.794 13391 13391 I SELinux : Function: selinux_android_load_priority [0], There is no sepolicy file.
+12-12 20:47:32.794 13391 13391 I SELinux :  
+12-12 20:47:32.794 13391 13391 I SELinux : Function: selinux_android_load_priority [1], There is no sepolicy version file.
+12-12 20:47:32.794 13391 13391 I SELinux :  
+12-12 20:47:32.794 13391 13391 I SELinux : Function: selinux_android_load_priority , priority version is VE=SEPF_SM-T530NU_4.4.2_0028
+12-12 20:47:32.794 13391 13391 I SELinux :  
+12-12 20:47:32.794 13391 13391 I SELinux :  
+12-12 20:47:32.794 13391 13391 I SELinux : selinux_android_seapp_context_reload: seapp_contexts file is loaded from /seapp_contexts
+12-12 20:47:32.794   787  3278 I ActivityManager: Killing 12668:com.sec.spp.push:RemoteDlcProcess/u0a28 (adj 15): empty #31
+12-12 20:47:32.844   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.844   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.844   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:32.844   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:32.874   787  1784 D SSRMv2:SIOP: SIOP:: AP = 300, Delta = 0
+12-12 20:47:32.874   787   899 V AlarmManager: waitForAlarm result :4
+12-12 20:47:32.874   787   899 V AlarmManager: trigger ELAPSED_REALTIME_WAKEUP or RTC_WAKEUP
+12-12 20:47:32.894   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.894   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.894   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:32.914   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:32.944   787  1165 D BatteryService: level:100, scale:100, status:3, health:2, present:true, voltage: 4269, temperature: 233, technology: Li-ion, AC powered:false, USB powered:true, Wireless powered:false, icon:17303545, invalid charger:0, online:4, current avg:-275, charge type:2, power sharing:false
+12-12 20:47:32.944   991   991 D KeyguardUpdateMonitor: received broadcast android.intent.action.BATTERY_CHANGED
+12-12 20:47:32.944   991   991 D KeyguardUpdateMonitor: handleBatteryUpdate
+12-12 20:47:32.944 11590 11610 D HeadsetStateMachine: Disconnected process message: 10
+12-12 20:47:32.944  1812  1812 D DeviceManagerBroadcastReceiver: Updated Battery Level: 100
+12-12 20:47:32.944  1812  1812 D DeviceManagerBroadcastReceiver: Action: android.intent.action.BATTERY_CHANGED
+12-12 20:47:32.944  1812  1812 D DeviceManagerBroadcastReceiver: Set Alarm: false
+12-12 20:47:32.944   787   787 D BatteryService: Sending ACTION_BATTERY_CHANGED.
+12-12 20:47:32.954   991   991 D STATUSBAR-PhoneStatusBar:  mBrightnessEnablebySettings = true mBrightnessEnablebyBattery = true mBrightnessEnablebyDisableFlag = true mPmsBrightnessEnablebySettings = true
+12-12 20:47:32.964   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.964   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:32.964   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:32.964   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:32.964   991   991 D STATUSBAR-IconMerger: checkOverflow(1036), More:false, Req:false Child:4
+12-12 20:47:32.974   991   991 D BatteryMeterView: ACTION_BATTERY_CHANGED : level:100 status:3 health:2
+12-12 20:47:32.984   787   899 V AlarmManager: waitForAlarm result :8
+12-12 20:47:32.994   344 13404 I framebuffer: /data/system/enterprise.conf doesn't exist or cannot be opened
+12-12 20:47:33.014   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.014   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.014   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:33.014   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:33.054   787  3281 I EDMNativeHelperService: isScreenCaptureEnabled
+12-12 20:47:33.064   787  3280 D dalvikvm: GC_EXPLICIT freed 3427K, 56% free 23986K/53936K, paused 7ms+20ms, total 239ms
+12-12 20:47:33.074  1435  1435 I MultiWindowTrayInfo: getAppCnt
+12-12 20:47:33.074  1435  1435 I MultiWindowTrayInfo: getAppCnt
+12-12 20:47:33.074  1435  1435 I MultiWindowTrayInfo: getAppCnt
+12-12 20:47:33.074   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.074   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.074   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:33.074   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:33.084  1435  1435 I MultiWindowTrayInfo: getAppCnt
+12-12 20:47:33.084  1435  1435 I MultiWindowTrayInfo: getAppCnt
+12-12 20:47:33.084  1435  1435 I MultiWindowTrayInfo: getAppCnt
+12-12 20:47:33.094  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:33.094  1435  1435 I MultiWindowTrayInfo: getAppCnt
+12-12 20:47:33.094  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:33.094  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:33.104  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:33.104  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:33.114  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:33.114  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:33.114  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:33.124  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:33.124  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:33.124   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.124   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.124   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:33.134   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:33.134  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:33.134  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:33.144  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:33.154  1435  1435 I MultiWindowTrayInfo: makeInstancebadgeForGridView
+12-12 20:47:33.184   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.184   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.184   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:33.194 13414 13414 I SELinux : Function: selinux_android_load_priority [0], There is no sepolicy file.
+12-12 20:47:33.194 13414 13414 I SELinux :  
+12-12 20:47:33.194 13414 13414 I SELinux : Function: selinux_android_load_priority [1], There is no sepolicy version file.
+12-12 20:47:33.194 13414 13414 I SELinux :  
+12-12 20:47:33.194 13414 13414 I SELinux : Function: selinux_android_load_priority , priority version is VE=SEPF_SM-T530NU_4.4.2_0028
+12-12 20:47:33.194 13414 13414 I SELinux :  
+12-12 20:47:33.194 13414 13414 I SELinux :  
+12-12 20:47:33.194 13414 13414 I SELinux : selinux_android_seapp_context_reload: seapp_contexts file is loaded from /seapp_contexts
+12-12 20:47:33.194   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:33.204   787   951 I ActivityManager: Killing 12690:com.google.android.talk/u0a91 (adj 15): empty #31
+12-12 20:47:33.234   242   242 D dalvikvm: GC_EXPLICIT freed 45K, 66% free 4881K/14092K, paused 2ms+3ms, total 32ms
+12-12 20:47:33.254   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.254   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.254   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:33.254   242   242 D dalvikvm: GC_EXPLICIT freed <1K, 66% free 4881K/14092K, paused 2ms+3ms, total 23ms
+12-12 20:47:33.254   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:33.274   242   242 D dalvikvm: GC_EXPLICIT freed <1K, 66% free 4881K/14092K, paused 2ms+3ms, total 24ms
+12-12 20:47:33.314   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.314   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.314   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:33.334   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:33.344  2185  2189 D dalvikvm: GC_CONCURRENT freed 1555K, 55% free 6468K/14092K, paused 3ms+3ms, total 56ms
+12-12 20:47:33.374 13414 13414 D MagazineCardManager: MagazineCardManager
+12-12 20:47:33.384   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.384   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.384   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:33.394   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:33.394   991   991 D STATUSBAR-NetworkController: refreshSignalCluster - setNWBoosterIndicators(false)
+12-12 20:47:33.394   991   991 D STATUSBAR-NetworkController: refreshSignalCluster: data=-1 bt=false
+12-12 20:47:33.424   991   991 D STATUSBAR-IconMerger: checkOverflow(1036), More:false, Req:false Child:4
+12-12 20:47:33.444   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.444   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.444   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:33.454   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:33.454  1300  1300 D SamsungIME: onStartInputView
+12-12 20:47:33.464 11728 13437 I IcingInternalCorpora: Received calendar change notification.
+12-12 20:47:33.504   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.504   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.504   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:33.504  1300  1300 I SamsungIME: getDebugLevel  : 0x4f4c
+12-12 20:47:33.504   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:33.504  1300  1300 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1509 android.content.ContextWrapper.sendBroadcast:377 com.diotek.ime.framework.common.InputManagerImpl.sendInputLanguage:9353 com.diotek.ime.framework.common.InputManagerImpl.initDefaultLanguage:4901 com.diotek.ime.framework.common.InputManagerImpl.initSelectedLanguage:5143 
+12-12 20:47:33.514   241   241 I SurfaceFlinger: id=30 createSurf (1x1),1 flag=4, QopupWindow
+12-12 20:47:33.534  1300  1300 I SamsungIME: getDebugLevel  : 0x4f4c
+12-12 20:47:33.564  1300  1300 I SamsungIME: KeybaordView init() : load resources
+12-12 20:47:33.574   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.574   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.574   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:33.574   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:33.604 13414 13432 D MagazineCardManager: MagazineCardManager
+12-12 20:47:33.604 13414 13432 D MagazineCardManager: removeAllCard : calendar U0
+12-12 20:47:33.604   787   951 D MagazineCardManagerService: removeAllCard
+12-12 20:47:33.614  1300  1300 I SamsungIME: getCurrentKeyboard
+12-12 20:47:33.614  1300  1300 I SamsungIME: getTextKeyboard
+12-12 20:47:33.614  2185  2185 D Finsky  : [1] 5.onFinished: Installation state replication succeeded.
+12-12 20:47:33.624   787  3278 I ActivityManager: Killing 12119:com.google.android.youtube/u0a157 (adj 15): empty #31
+12-12 20:47:33.634  1300  1300 D SamsungIME: [SwiftkeyWrapper] currentLangauge : 1701729619
+12-12 20:47:33.634  1300  1300 D SamsungIME: [AbstractKeyboardView] onDetachedFromWindow.
+12-12 20:47:33.644   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.644   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.644   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:33.644  1300  1300 D SamsungIME: Magnification Enabled = false
+12-12 20:47:33.644  1300  1300 D SamsungIME: [AbstractKeyboardView] onDetachedFromWindow.
+12-12 20:47:33.644  1300  1300 I SamsungIME: getCurrentKeyboard
+12-12 20:47:33.644  1300  1300 I SamsungIME: getTextKeyboard
+12-12 20:47:33.674   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:33.674  1300  1300 D SamsungIME: [SwiftkeyWrapper] currentLangauge : 1701729619
+12-12 20:47:33.674  1300  1300 D SamsungIME: Magnification Enabled = false
+12-12 20:47:33.684  1300  1300 D SamsungIME: Dismiss ExpandCandiate
+12-12 20:47:33.684  1300  1300 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1509 android.content.ContextWrapper.sendBroadcast:377 com.diotek.ime.framework.common.InputManagerImpl.sendInputLanguage:9353 com.diotek.ime.framework.common.InputManagerImpl.setLanguage:5477 com.diotek.ime.framework.common.InputManagerImpl.startInputViewContinue:3348 
+12-12 20:47:33.694  1300  1300 D SamsungIME: Dismiss ExpandCandiate
+12-12 20:47:33.694  1300  1300 D SamsungIME: Dismiss ExpandCandiate
+12-12 20:47:33.694  1300  1300 I SamsungIME: getCurrentKeyboard
+12-12 20:47:33.694  1300  1300 I SamsungIME: getTextKeyboard
+12-12 20:47:33.704   787   887 D PackageManager: [MSG] WRITE_PACKAGE_RESTRICTIONS
+12-12 20:47:33.704  1300  1300 D SamsungIME: [SwiftkeyWrapper] currentLangauge : 1701729619
+12-12 20:47:33.704  1300  1300 D SamsungIME: Dismiss ExpandCandiate
+12-12 20:47:33.714  1300  1300 I SamsungIME: [IMI] startInputView - caller pid : 13215, caller uid : 13112
+12-12 20:47:33.714  1300  1300 D SamsungIME: onWindowShown
+12-12 20:47:33.714  1300  1300 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1509 android.content.ContextWrapper.sendBroadcast:377 android.inputmethodservice.InputMethodService.sendInputViewShownState:539 android.inputmethodservice.InputMethodService.showWindow:2161 android.inputmethodservice.InputMethodService$InputMethodImpl.showSoftInput:716 
+12-12 20:47:33.734   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.734   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.734   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:33.744   787  1784 D SSRMv2:TSP:AirViewOnOff: DeviceInfo:: 00000000000
+12-12 20:47:33.754   787  1784 D SSRMv2:TSP:AirViewOnOff: SettingsAirViewInfo:: 000000000
+12-12 20:47:33.754   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:33.754   787   787 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1523 com.android.server.StatusBarManagerService.sendNotification:981 com.android.server.StatusBarManagerService.addNotification:670 com.android.server.NotificationManagerService$7.run:2142 android.os.Handler.handleCallback:733 
+12-12 20:47:33.764   787   787 D STATUSBAR-StatusBarManagerService: sendNotification(1) - 17041255
+12-12 20:47:33.764   241   241 I SurfaceFlinger: id=31 createSurf (1280x503),1 flag=4, JnputMethod
+12-12 20:47:33.774 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> WC:42 [0:0] action : comandroidserverNotificationManagerServiceNotificationArrived
+12-12 20:47:33.774 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> WC:55 [0:0] settings CT : androidappReceiverRestrictedContext@42049bf0
+12-12 20:47:33.774 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> UIM:146 [0:0] setContext
+12-12 20:47:33.774 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> UIM:227 [0:0] The widget does not exist in idle!!
+12-12 20:47:33.774   991   991 D ProgressBar: setProgressDrawable drawableHeight = 7
+12-12 20:47:33.784   991   991 D PhoneStatusBar: tick(): knoxCustomManager = android.app.enterprise.knoxcustom.KnoxCustomManager@41d4da00
+12-12 20:47:33.794   991   991 D STATUSBAR-IconMerger: checkOverflow(1036), More:false, Req:false Child:5
+12-12 20:47:33.814   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.814   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.814   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:33.824   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:33.824   787   863 D SensorService:   0.1 -0.1 9.8
+12-12 20:47:33.864  1300  1300 D dalvikvm: GC_FOR_ALLOC freed 2339K, 48% free 7366K/14092K, paused 59ms, total 59ms
+12-12 20:47:33.874  1300  1300 I SamsungIME: drawAllKey
+12-12 20:47:33.894   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.894   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.894   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:33.904   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:33.954  1300  1304 D dalvikvm: GC_CONCURRENT freed 88K, 35% free 9226K/14092K, paused 3ms+3ms, total 29ms
+12-12 20:47:33.954   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.954   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:33.954   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:33.954   787   901 D PowerManagerService: [api] userActivityFromNative : 20 (event: 2 flags: 0)
+12-12 20:47:33.964   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:34.024   787  1215 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:34.084   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:34.084   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:34.084   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:34.084   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:34.134   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:34.134   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:34.134   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:34.144   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:34.164   787   875 W ActivityManager: mDVFSHelper.release()
+12-12 20:47:34.194   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:34.204   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:34.214   991   991 V PanelView: animationTick called with dtms=0; nothing to do (h=0.0 v=-0.0)
+12-12 20:47:34.254   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:34.254   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:34.254   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:34.264   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:34.294   241 13243 I SurfaceFlinger: id=30 Removed QopupWindow (10/13)
+12-12 20:47:34.294   241   466 I SurfaceFlinger: id=30 Removed QopupWindow (-2/13)
+12-12 20:47:34.294   787  1094 E Watchdog: !@Sync 264
+12-12 20:47:34.314   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:34.314   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:34.314   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:34.324   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:34.374   787  1245 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:34.404   991   991 D STATUSBAR-NetworkController: refreshSignalCluster - setNWBoosterIndicators(false)
+12-12 20:47:34.404   991   991 D STATUSBAR-NetworkController: refreshSignalCluster: data=-1 bt=false
+12-12 20:47:34.414   991   991 D STATUSBAR-IconMerger: checkOverflow(1036), More:false, Req:false Child:5
+12-12 20:47:34.434   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:34.434   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:34.434   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:34.434   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:34.484   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:34.484   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:34.484   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:34.494   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:34.554   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:34.554   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:34.554   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:34.574   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:34.624   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:34.634   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:34.634   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:34.634   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:34.684   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:34.684   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:34.684   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:34.724   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:34.784   787  1060 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:34.834   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:34.834   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:34.834   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:34.844   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:34.894   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:34.894   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:34.894   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:34.904   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:34.954   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:34.954   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:34.954   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:34.954   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:35.004   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:35.004   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:35.004   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:35.004   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:35.034   344 13453 I framebuffer: /data/system/enterprise.conf doesn't exist or cannot be opened
+12-12 20:47:35.064   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:35.064   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:35.064   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:35.064   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:35.094   787  1216 I EDMNativeHelperService: isScreenCaptureEnabled
+12-12 20:47:35.114   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:35.114   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:35.114   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:35.124   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:35.164   787   787 D CustomFrequencyManagerService: FrequencyrequestList.getNextMaxCPUCoreRequest, index: 0
+12-12 20:47:35.174   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:35.174   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:35.174   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:35.184   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:35.234   787  3280 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:35.284   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:35.284   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:35.284   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:35.294   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:35.344   787  1166 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:35.404   991   991 D STATUSBAR-NetworkController: refreshSignalCluster - setNWBoosterIndicators(false)
+12-12 20:47:35.404   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:35.404   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:35.404   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:35.404   991   991 D STATUSBAR-NetworkController: refreshSignalCluster: data=-1 bt=false
+12-12 20:47:35.414   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:35.414   991   991 D STATUSBAR-IconMerger: checkOverflow(1036), More:false, Req:false Child:5
+12-12 20:47:35.464   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:35.464   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:35.464   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:35.484   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:35.534   787  1165 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:35.594   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:35.594   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:35.594   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:35.594   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:35.654   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:35.654   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:35.654   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:35.684   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:35.734   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:35.734   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:35.734   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:35.744   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:35.804   787  3279 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:35.854   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:35.854   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:35.854   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:35.864   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:35.914   787   797 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:35.974   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:35.974   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:35.974   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:35.984   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:36.034   787  1231 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:36.094   787  1246 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:36.144   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.144   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.144   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:36.154   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:36.174   787  1165 I SpenGestureManager: setFocusWindow0
+12-12 20:47:36.174   787   867 D PointerIcon: setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+12-12 20:47:36.174   787   867 D PointerIcon: setMouseCustomIcon IconType is same.101
+12-12 20:47:36.204   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.204   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.204   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:36.214   241   241 I SurfaceFlinger: id=32 createSurf (1x1),1 flag=4, NainActivit
+12-12 20:47:36.244   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:36.254 11728 12421 I AuthChimeraService: Executing request: ProxyRequest[ url: https://www.googleapis.com/identitytoolkit/v3/relyingparty/signupNewUser?alt=proto&key=AIzaSyAlPR096sOohVB9d0xuRCe1M34wBO-crBA, method: 1 ]
+12-12 20:47:36.304   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.304   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.304   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:36.304   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:36.314   787  3279 I SpenGestureManager: setFocusWindow21010
+12-12 20:47:36.334   787   867 D PointerIcon: setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+12-12 20:47:36.334   787   867 D PointerIcon: setMouseCustomIcon IconType is same.101
+12-12 20:47:36.334 13215 13215 W InputEventReceiver: Attempted to finish an input event but the input event receiver has already been disposed.
+12-12 20:47:36.334 13215 13215 W InputEventReceiver: Attempted to finish an input event but the input event receiver has already been disposed.
+12-12 20:47:36.334 13215 13215 W ViewRootImpl: Dropping event due to root view being removed: MotionEvent { action=ACTION_UP, id[0]=0, x[0]=-168.75871, y[0]=-321.8239, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7944123, downTime=7944121, deviceId=0, source=0x1002 }
+12-12 20:47:36.344   787   798 W LicenseLogService: log() failed
+12-12 20:47:36.344 13215 13215 E ViewRootImpl: sendUserActionEvent() mView == null
+12-12 20:47:36.344   787   798 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@4307a4a8 attribute=null, token = android.os.BinderProxy@42a1a548
+12-12 20:47:36.364   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:36.364   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:36.374   991   991 V PanelView: animationTick called with dtms=0; nothing to do (h=0.0 v=-0.0)
+12-12 20:47:36.374   991   991 V PanelView: animationTick called with dtms=0; nothing to do (h=0.0 v=-0.0)
+12-12 20:47:36.404   991   991 D STATUSBAR-NetworkController: refreshSignalCluster - setNWBoosterIndicators(false)
+12-12 20:47:36.404   991   991 D STATUSBAR-NetworkController: refreshSignalCluster: data=-1 bt=false
+12-12 20:47:36.424   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.424   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.424   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:36.424   991   991 D STATUSBAR-IconMerger: checkOverflow(1036), More:false, Req:false Child:5
+12-12 20:47:36.444   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:36.494   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.494   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.494   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:36.504   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:36.524 11728 13328 E Volley  : [820] BasicNetwork.performRequest: Unexpected response code 400 for https://www.googleapis.com/identitytoolkit/v3/relyingparty/signupNewUser?alt=proto&key=AIzaSyAlPR096sOohVB9d0xuRCe1M34wBO-crBA
+12-12 20:47:36.524 11728 12421 I AuthChimeraService: Error description received from server: INVALID_EMAIL
+12-12 20:47:36.534 11728 12421 W FirebaseAuth: [PhoneNumberAuthPostProcessor] postProcess starts
+12-12 20:47:36.534 11728 12421 W FirebaseAuth: [PhoneNumberAuthPostProcessor] postProcess ends
+12-12 20:47:36.564   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.564   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.564   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:36.574   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:36.574   241   241 I SurfaceFlinger: id=33 createSurf (1x1),1 flag=4, Uoast
+12-12 20:47:36.594   787  6082 D PowerManagerService: [api] acquire WakeLock flags=0x2000000a tag=WindowManager uid=1000 pid=787
+12-12 20:47:36.614   241   883 I SurfaceFlinger: id=32 Removed NainActivit (10/14)
+12-12 20:47:36.624   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.624   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.624   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.624   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:36.624   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:36.644   787  3281 I NotificationService: cancelToast pkg=com.example.snoopy callback=android.app.ITransientNotification$Stub$Proxy@42a0d168
+12-12 20:47:36.654   787  1216 D PowerManagerService: [api] [s] userActivity : event: 0 flags: 0 (uid: 1000 pid: 787)
+12-12 20:47:36.654   787  1216 D PowerManagerService: [api] release WakeLock flags=0x2000000a tag=WindowManager uid=1000 pid=787 (0x0)
+12-12 20:47:36.654   787  1216 D PowerManagerService: [api] applyWakeLockFlagsOnReleaseLocked : userActivityNoUpdateLocked is called : SCREEN_BRIGHT_WAKE_LOCK        'WindowManager' ON_AFTER_RELEASE (uid=1000, pid=787, ws=WorkSource{13112}) (elapsedTime=66)
+12-12 20:47:36.684   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.684   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.684   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:36.694   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:36.744   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.744   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.744   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:36.754   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:36.774   787  1060 I SpenGestureManager: setFocusWindow0
+12-12 20:47:36.774   787   867 D PointerIcon: setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+12-12 20:47:36.774   787   867 D PointerIcon: setMouseCustomIcon IconType is same.101
+12-12 20:47:36.804   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.804   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.804   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:36.814   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:36.814   241   241 I SurfaceFlinger: id=34 createSurf (1x1),1 flag=4, NainActivit
+12-12 20:47:36.834 11728 12421 I AuthChimeraService: Executing request: ProxyRequest[ url: https://www.googleapis.com/identitytoolkit/v3/relyingparty/signupNewUser?alt=proto&key=AIzaSyAlPR096sOohVB9d0xuRCe1M34wBO-crBA, method: 1 ]
+12-12 20:47:36.874   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.874   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.874   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:36.884   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:36.904   787  3278 I SpenGestureManager: setFocusWindow21010
+12-12 20:47:36.914   787   867 D PointerIcon: setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+12-12 20:47:36.914   787   867 D PointerIcon: setMouseCustomIcon IconType is same.101
+12-12 20:47:36.914 13215 13215 W InputEventReceiver: Attempted to finish an input event but the input event receiver has already been disposed.
+12-12 20:47:36.914 13215 13215 W InputEventReceiver: Attempted to finish an input event but the input event receiver has already been disposed.
+12-12 20:47:36.914 13215 13215 W ViewRootImpl: Dropping event due to root view being removed: MotionEvent { action=ACTION_UP, id[0]=0, x[0]=850.3229, y[0]=-321.04468, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7944701, downTime=7944697, deviceId=0, source=0x1002 }
+12-12 20:47:36.944   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.944   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.944   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:36.944   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:36.994   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.994   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:36.994   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:36.994   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:37.034   787   875 W ActivityManager: mDVFSHelper.release()
+12-12 20:47:37.054   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:37.054   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:37.054   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:37.084   787   798 W LicenseLogService: log() failed
+12-12 20:47:37.104   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:37.104   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:37.104   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:37.114   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:37.114 13215 13215 E ViewRootImpl: sendUserActionEvent() mView == null
+12-12 20:47:37.114   787   798 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@42604130 attribute=null, token = android.os.BinderProxy@42a1a548
+12-12 20:47:37.124   787   863 D SensorService:   0.1 -0.1 9.8
+12-12 20:47:37.134   344 13471 I framebuffer: /data/system/enterprise.conf doesn't exist or cannot be opened
+12-12 20:47:37.134 11728 13329 E Volley  : [821] BasicNetwork.performRequest: Unexpected response code 400 for https://www.googleapis.com/identitytoolkit/v3/relyingparty/signupNewUser?alt=proto&key=AIzaSyAlPR096sOohVB9d0xuRCe1M34wBO-crBA
+12-12 20:47:37.134 11728 12421 I AuthChimeraService: Error description received from server: INVALID_EMAIL
+12-12 20:47:37.134   787 13473 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1509 com.android.server.InputMethodManagerService$4.run:2683 java.lang.Thread.run:841 <bottom of call stack> <bottom of call stack> 
+12-12 20:47:37.154   787   787 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1523 com.android.server.StatusBarManagerService.sendNotification:981 com.android.server.StatusBarManagerService.removeNotification:706 com.android.server.NotificationManagerService.cancelNotificationLocked:2455 com.android.server.NotificationManagerService.access$5100:160 
+12-12 20:47:37.164   991   991 D STATUSBAR-IconMerger: checkOverflow(1036), More:false, Req:false Child:4
+12-12 20:47:37.174  1300  1300 D SamsungIME: onWindowHidden
+12-12 20:47:37.174   787   787 D NotificationService: cancelNotificationLocked
+12-12 20:47:37.174   787   787 D NotificationService:  hasClearableItems
+12-12 20:47:37.174   787   787 D NotificationService:  has clearable items no 
+12-12 20:47:37.174   787   787 D NotificationService: cancelNotificationLocked: cancel alarm
+12-12 20:47:37.174   787   787 D NotificationService: cancelNotificationLocked: cancel alarm
+12-12 20:47:37.174   787   787 D STATUSBAR-StatusBarManagerService: sendNotification(3) - 17041255
+12-12 20:47:37.174  1300  1300 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1509 android.content.ContextWrapper.sendBroadcast:377 android.inputmethodservice.InputMethodService.sendInputViewShownState:539 android.inputmethodservice.InputMethodService.hideWindow:2300 android.inputmethodservice.InputMethodService.doHideWindow:2278 
+12-12 20:47:37.174   787   797 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:37.174   787   787 D LightsService: [api] [SvcLED] turnOff:: id = 4 (uid: 1000 pid: 787) 
+12-12 20:47:37.174   787   787 D LightsService: [SvcLED] setSvcLedStateLocked:: SvcLEDState : 0x0 -> 0x0 | SvcLED(id=4) set Off
+12-12 20:47:37.184 11728 12421 W FirebaseAuth: [PhoneNumberAuthPostProcessor] postProcess starts
+12-12 20:47:37.184 11728 12421 W FirebaseAuth: [PhoneNumberAuthPostProcessor] postProcess ends
+12-12 20:47:37.184   787   894 D LightsService: [SvcLED] Lux failed to be updated in 700ms. -> handleForcedSvcLEDTasK
+12-12 20:47:37.184   787   894 D LightsService: [SvcLED]  setSvcLedLightLocked :: Current SvcLED(id=3) maintains its priority right
+12-12 20:47:37.194   241 13243 I SurfaceFlinger: id=34 Removed NainActivit (10/14)
+12-12 20:47:37.194   241  1177 I SurfaceFlinger: id=34 Removed NainActivit (-2/14)
+12-12 20:47:37.194   241   466 I SurfaceFlinger: id=33 Removed Uoast (13/13)
+12-12 20:47:37.194   241   883 I SurfaceFlinger: id=33 Removed Uoast (-2/13)
+12-12 20:47:37.194   787  1784 D SSRMv2:TSP:AirViewOnOff: DeviceInfo:: 00000000000
+12-12 20:47:37.194   787  1784 D SSRMv2:TSP:AirViewOnOff: SettingsAirViewInfo:: 000000000
+12-12 20:47:37.204   787   951 I EDMNativeHelperService: isScreenCaptureEnabled
+12-12 20:47:37.234   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:37.234   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:37.234   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:37.244   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:37.264   241   241 I SurfaceFlinger: id=35 createSurf (1x1),1 flag=4, Uoast
+12-12 20:47:37.284   787   951 D PowerManagerService: [api] acquire WakeLock flags=0x2000000a tag=WindowManager uid=1000 pid=787
+12-12 20:47:37.294   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:37.294   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:37.294   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:37.294   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:37.294   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:37.294   787  1245 I NotificationService: cancelToast pkg=com.example.snoopy callback=android.app.ITransientNotification$Stub$Proxy@42c2e780
+12-12 20:47:37.334   787  1060 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:37.344   787   867 D PointerIcon: setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+12-12 20:47:37.344   787   867 D PointerIcon: setMouseCustomIcon IconType is same.101
+12-12 20:47:37.344   787   901 D InputDispatcher: Waiting for application to become ready for input: xxxx Reason: Waiting because the touched window is paused.
+12-12 20:47:37.354   787   797 D PowerManagerService: [api] [s] userActivity : event: 0 flags: 0 (uid: 1000 pid: 787)
+12-12 20:47:37.364   787   797 D PowerManagerService: [api] release WakeLock flags=0x2000000a tag=WindowManager uid=1000 pid=787 (0x0)
+12-12 20:47:37.364   787   797 D PowerManagerService: [api] applyWakeLockFlagsOnReleaseLocked : userActivityNoUpdateLocked is called : SCREEN_BRIGHT_WAKE_LOCK        'WindowManager' ON_AFTER_RELEASE (uid=1000, pid=787, ws=WorkSource{13112}) (elapsedTime=80)
+12-12 20:47:37.394   787   901 I InputDispatcher: Dropping event because there is no touchable window at (1147, 312).
+12-12 20:47:37.394   787  1245 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:37.394   787  1245 W InputManager: Input event injection from pid 13159 failed.
+12-12 20:47:37.434   787   875 W ActivityManager: mDVFSHelper.release()
+12-12 20:47:37.444   787  1215 W ActivityManager: Permission Denial: getCurrentUser() from pid=13215, uid=13112 requires android.permission.INTERACT_ACROSS_USERS
+12-12 20:47:37.454   991   991 D PhoneStatusBar: setTransGradationMode=false, mTransparentMode=false, mSemiTransparentMode=false, mMultiWindowMode=false
+12-12 20:47:37.454   787  1231 D StatusBarManagerService: tr p:13215,o:f
+12-12 20:47:37.464   787  1246 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:37.504   991   991 D PhoneStatusBar: setSemiTransparentMode=false, mTransparentMode=false, mSemiTransparentMode=false, mMultiWindowMode=false
+12-12 20:47:37.504   787   951 D StatusBarManagerService: semi p:13215,o:f
+12-12 20:47:37.554   241 13243 I SurfaceFlinger: id=31 Removed JnputMethod (8/13)
+12-12 20:47:37.554   241  1177 I SurfaceFlinger: id=31 Removed JnputMethod (-2/13)
+12-12 20:47:37.594   241   241 I SurfaceFlinger: id=36 createSurf (1x1),1 flag=404, MoginActivi
+12-12 20:47:37.594   787   797 I SpenGestureManager: setFocusWindow21025
+12-12 20:47:37.594   787   879 D STATUSBAR-StatusBarManagerService: manageDisableList what=0x0 pkg=WindowManager.LayoutParams
+12-12 20:47:37.604   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:37.604   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:37.604   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:37.614   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:37.614   787   867 D PointerIcon: setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+12-12 20:47:37.614   787   867 D PointerIcon: setMouseCustomIcon IconType is same.101
+12-12 20:47:37.644   787   798 W LicenseLogService: log() failed
+12-12 20:47:37.654  1300  1300 D SamsungIME: onStartInputView
+12-12 20:47:37.664   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:37.664   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:37.664   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:37.664   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:37.714   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:37.714   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:37.714   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:37.724   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:37.774   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:37.774   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:37.774   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:37.774   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:37.774   787   875 W ActivityManager: mDVFSHelper.release()
+12-12 20:47:37.824  1300  1300 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1509 android.content.ContextWrapper.sendBroadcast:377 com.diotek.ime.framework.common.InputManagerImpl.sendInputLanguage:9353 com.diotek.ime.framework.common.InputManagerImpl.initDefaultLanguage:4901 com.diotek.ime.framework.common.InputManagerImpl.initSelectedLanguage:5143 
+12-12 20:47:37.824  1300  1300 D SamsungIME: [AbstractKeyboardView] onDetachedFromWindow.
+12-12 20:47:37.824  1300  1300 D SamsungIME: Magnification Enabled = false
+12-12 20:47:37.824  1300  1300 D SamsungIME: [AbstractKeyboardView] onDetachedFromWindow.
+12-12 20:47:37.824  1300  1300 D SamsungIME: Magnification Enabled = false
+12-12 20:47:37.834  1300  1300 D SamsungIME: Dismiss ExpandCandiate
+12-12 20:47:37.834  1300  1300 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1509 android.content.ContextWrapper.sendBroadcast:377 com.diotek.ime.framework.common.InputManagerImpl.sendInputLanguage:9353 com.diotek.ime.framework.common.InputManagerImpl.setLanguage:5477 com.diotek.ime.framework.common.InputManagerImpl.startInputViewContinue:3348 
+12-12 20:47:37.834   787  3279 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:37.884  1300  1300 D SamsungIME: Dismiss ExpandCandiate
+12-12 20:47:37.894  1300  1300 D SamsungIME: Dismiss ExpandCandiate
+12-12 20:47:37.894  1300  1300 I SamsungIME: getCurrentKeyboard
+12-12 20:47:37.894  1300  1300 I SamsungIME: getTextKeyboard
+12-12 20:47:37.894   241   883 I SurfaceFlinger: id=35 Removed Uoast (13/13)
+12-12 20:47:37.904   241 13243 I SurfaceFlinger: id=35 Removed Uoast (-2/13)
+12-12 20:47:37.904   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:37.904   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:37.904   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:37.914   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:37.944  1300  1300 D SamsungIME: [SwiftkeyWrapper] currentLangauge : 1701729619
+12-12 20:47:37.954  1300  1300 D SamsungIME: Dismiss ExpandCandiate
+12-12 20:47:37.954  1300  1300 I SamsungIME: [IMI] startInputView - caller pid : 13215, caller uid : 13112
+12-12 20:47:37.964   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:37.964   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:37.964   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:37.974   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:38.024  1300  1300 D SamsungIME: onWindowShown
+12-12 20:47:38.024  1300  1300 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1509 android.content.ContextWrapper.sendBroadcast:377 android.inputmethodservice.InputMethodService.sendInputViewShownState:539 android.inputmethodservice.InputMethodService.showWindow:2161 android.inputmethodservice.InputMethodService$InputMethodImpl.showSoftInput:716 
+12-12 20:47:38.034   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.034   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.034   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:38.044   787  1784 D SSRMv2:TSP:AirViewOnOff: DeviceInfo:: 00000000000
+12-12 20:47:38.054   787  1784 D SSRMv2:TSP:AirViewOnOff: SettingsAirViewInfo:: 000000000
+12-12 20:47:38.074   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:38.124   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.124   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.124   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:38.134   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:38.194   241   883 I SurfaceFlinger: id=24 Removed NainActivit (6/12)
+12-12 20:47:38.194   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.194   241  1177 I SurfaceFlinger: id=24 Removed NainActivit (-2/12)
+12-12 20:47:38.194   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.194   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:38.194   787   867 W ActivityManager: mDVFSHelper.release()
+12-12 20:47:38.204   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:38.234   991   991 D ProgressBar: setProgressDrawable drawableHeight = 7
+12-12 20:47:38.234   991   991 D PhoneStatusBar: tick(): knoxCustomManager = android.app.enterprise.knoxcustom.KnoxCustomManager@41d4da00
+12-12 20:47:38.244   787   787 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1523 com.android.server.StatusBarManagerService.sendNotification:981 com.android.server.StatusBarManagerService.addNotification:670 com.android.server.NotificationManagerService$7.run:2142 android.os.Handler.handleCallback:733 
+12-12 20:47:38.244   787   787 D STATUSBAR-StatusBarManagerService: sendNotification(1) - 17041255
+12-12 20:47:38.254  1300  1300 I Choreographer: Skipped 35 frames!  The application may be doing too much work on its main thread.
+12-12 20:47:38.254   241   241 I SurfaceFlinger: id=37 createSurf (1280x503),1 flag=4, JnputMethod
+12-12 20:47:38.254   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.254   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.254   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:38.254   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:38.254 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> WC:42 [0:0] action : comandroidserverNotificationManagerServiceNotificationArrived
+12-12 20:47:38.254 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> WC:55 [0:0] settings CT : androidappReceiverRestrictedContext@42049bf0
+12-12 20:47:38.254 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> UIM:146 [0:0] setContext
+12-12 20:47:38.254   991   991 D STATUSBAR-IconMerger: checkOverflow(1036), More:false, Req:false Child:5
+12-12 20:47:38.264 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> UIM:227 [0:0] The widget does not exist in idle!!
+12-12 20:47:38.314   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.314   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.314   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:38.314   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:38.334  1300  1300 D dalvikvm: GC_FOR_ALLOC freed 2306K, 48% free 7365K/14092K, paused 48ms, total 48ms
+12-12 20:47:38.334  1300  1300 I SamsungIME: drawAllKey
+12-12 20:47:38.374   787  3278 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:38.414  1300  1304 D dalvikvm: GC_CONCURRENT freed 153K, 35% free 9196K/14092K, paused 2ms+4ms, total 28ms
+12-12 20:47:38.414   991   991 D STATUSBAR-NetworkController: refreshSignalCluster - setNWBoosterIndicators(false)
+12-12 20:47:38.414   991   991 D STATUSBAR-NetworkController: refreshSignalCluster: data=-1 bt=false
+12-12 20:47:38.424   787   798 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:38.434   991   991 D STATUSBAR-IconMerger: checkOverflow(1036), More:false, Req:false Child:5
+12-12 20:47:38.474   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.474   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.474   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:38.484   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:38.534   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.534   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.534   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:38.534   787   875 W ActivityManager: mDVFSHelper.release()
+12-12 20:47:38.544   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:38.594   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.594   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.594   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:38.604   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:38.604  1300  1300 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1509 android.content.ContextWrapper.sendBroadcast:377 android.inputmethodservice.InputMethodService.sendInputViewShownState:539 android.inputmethodservice.InputMethodService.showWindow:2161 android.inputmethodservice.InputMethodService$InputMethodImpl.showSoftInput:716 
+12-12 20:47:38.604   787  1784 D SSRMv2:TSP:AirViewOnOff: DeviceInfo:: 00000000000
+12-12 20:47:38.604   787  1784 D SSRMv2:TSP:AirViewOnOff: SettingsAirViewInfo:: 000000000
+12-12 20:47:38.614   787   787 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1523 com.android.server.StatusBarManagerService.sendNotification:981 com.android.server.StatusBarManagerService.updateNotification:690 com.android.server.NotificationManagerService$7.run:2134 android.os.Handler.handleCallback:733 
+12-12 20:47:38.614   787   787 D STATUSBAR-StatusBarManagerService: sendNotification(2) - 17041255
+12-12 20:47:38.624 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> WC:42 [0:0] action : comandroidserverNotificationManagerServiceNotificationArrived
+12-12 20:47:38.624 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> WC:55 [0:0] settings CT : androidappReceiverRestrictedContext@42049bf0
+12-12 20:47:38.624 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> UIM:146 [0:0] setContext
+12-12 20:47:38.624 10823 10823 D com.samsung.app: [AccuTab_Magagine]>>> UIM:227 [0:0] The widget does not exist in idle!!
+12-12 20:47:38.654   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.654   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.654   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:38.654   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:38.714   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.714   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.714   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:38.734   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:38.784   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.784   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.784   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:38.784   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:38.834   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.834   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.834   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:38.834   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:38.894   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.894   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.894   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:38.894   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:38.904  1300  1300 D SamsungIME: Dismiss ExpandCandiate
+12-12 20:47:38.944   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.944   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:38.944   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:38.964   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:39.014   787  3279 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:39.034   787   875 W ActivityManager: mDVFSHelper.release()
+12-12 20:47:39.064   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:39.064   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:39.064   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:39.074   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:39.124   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:39.124   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:39.124   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:39.124   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:39.174   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:39.174   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:39.174   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:39.184   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:39.234   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:39.234   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:39.234   787   901 I InputDispatcher: Delivering touch to: action: 0x1, toolType: 0
+12-12 20:47:39.254   344 13493 I framebuffer: /data/system/enterprise.conf doesn't exist or cannot be opened
+12-12 20:47:39.264   787  1215 I SpenGestureManager: setFocusWindow0
+12-12 20:47:39.264   787   867 D PointerIcon: setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+12-12 20:47:39.264   787   867 D PointerIcon: setMouseCustomIcon IconType is same.101
+12-12 20:47:39.264 13215 13215 D AndroidRuntime: Shutting down VM
+12-12 20:47:39.264 13215 13215 W dalvikvm: threadid=1: thread exiting with uncaught exception (group=0x41749da0)
+12-12 20:47:39.274 13215 13215 E AndroidRuntime: FATAL EXCEPTION: main
+12-12 20:47:39.274 13215 13215 E AndroidRuntime: Process: com.example.snoopy, PID: 13215
+12-12 20:47:39.274 13215 13215 E AndroidRuntime: java.lang.IllegalArgumentException: Given String is empty or null
+12-12 20:47:39.274 13215 13215 E AndroidRuntime: 	at com.google.android.gms.common.internal.zzbp.zzgg(Unknown Source)
+12-12 20:47:39.274 13215 13215 E AndroidRuntime: 	at com.google.firebase.auth.FirebaseAuth.signInWithEmailAndPassword(Unknown Source)
+12-12 20:47:39.274 13215 13215 E AndroidRuntime: 	at com.example.snoopy.LoginActivity.userLogin(LoginActivity.java:82)
+12-12 20:47:39.274 13215 13215 E AndroidRuntime: 	at com.example.snoopy.LoginActivity.onClick(LoginActivity.java:102)
+12-12 20:47:39.274 13215 13215 E AndroidRuntime: 	at android.view.View.performClick(View.java:4637)
+12-12 20:47:39.274 13215 13215 E AndroidRuntime: 	at android.view.View$PerformClick.run(View.java:19422)
+12-12 20:47:39.274 13215 13215 E AndroidRuntime: 	at android.os.Handler.handleCallback(Handler.java:733)
+12-12 20:47:39.274 13215 13215 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:95)
+12-12 20:47:39.274 13215 13215 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:136)
+12-12 20:47:39.274 13215 13215 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:5479)
+12-12 20:47:39.274 13215 13215 E AndroidRuntime: 	at java.lang.reflect.Method.invokeNative(Native Method)
+12-12 20:47:39.274 13215 13215 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Method.java:515)
+12-12 20:47:39.274 13215 13215 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1283)
+12-12 20:47:39.274 13215 13215 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1099)
+12-12 20:47:39.274 13215 13215 E AndroidRuntime: 	at dalvik.system.NativeStart.main(Native Method)
+12-12 20:47:39.294   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:39.294   787   901 I InputDispatcher: Delivering touch to: action: 0x4, toolType: 0
+12-12 20:47:39.294   787   901 I InputDispatcher: Delivering touch to: action: 0x0, toolType: 0
+12-12 20:47:39.294   787  6082 W ActivityManager:   Force finishing activity com.example.snoopy/.LoginActivity
+12-12 20:47:39.334   787   879 D WindowManager: updateSetting mIsKidsLauncherEnabled = false isKidsLauncherEnabled = false
+12-12 20:47:39.334 13497 13497 I dumpstate: begin
+12-12 20:47:39.334   787   879 V WindowManager: rotationForOrientationLw(orient=-1, last=0); user=0  sensorRotation=-1 mLidState=-1 mDockMode=0 mHdmiPlugged=false mAccelerometerDefault=false gripRotationLock=false
+12-12 20:47:39.344   787   798 V WindowManager: rotationForOrientationLw(orient=-1, last=0); user=0  sensorRotation=-1 mLidState=-1 mDockMode=0 mHdmiPlugged=false mAccelerometerDefault=false gripRotationLock=false
+12-12 20:47:39.344   787   975 D SmartFaceIndicator: no icon
+12-12 20:47:39.344   787   975 E SmartFaceService: mActiveServiceType: 0
+12-12 20:47:39.344   787   975 E SmartFaceService: mScrollEnabled:false mPauseEnabled:false mStayEnabled:false mRotationEnabled:false, (false,false)
+12-12 20:47:39.344   787   975 E SmartFaceService: mLightIntensityEnough: true mLux: 0.0
+12-12 20:47:39.344   787   975 D Stay/Rotation Worker: updateClientsDone. def. do nothing.
+12-12 20:47:39.344   787   975 E SmartFaceService: Service Type to Worker: 0
+12-12 20:47:39.344   787   975 E SmartFaceService: Last Active clients:0 Current Active clients: 0
+12-12 20:47:39.344   787   879 V WindowOrientationListener: WindowOrientationListener disabled
+12-12 20:47:39.344   787   879 D SensorService: AutoRotationSensor::activate (ident=0x77819478, enabled=0)
+12-12 20:47:39.344   787   879 D SensorManager: unregisterListener ::   
+12-12 20:47:39.344   787   975 E SmartFaceService: Last Smart Pause clients: 0 Current Smart Pause clients: 0
+12-12 20:47:39.354   787   879 D WindowManager: updateSetting mIsKidsLauncherEnabled = false isKidsLauncherEnabled = false
+12-12 20:47:39.354   787   951 I EDMNativeHelperService: isScreenCaptureEnabled
+12-12 20:47:39.394   787   879 V WindowManager: rotationForOrientationLw(orient=-1, last=0); user=0 USER_ROTATION_LOCKED sensorRotation=-1 mLidState=-1 mDockMode=0 mHdmiPlugged=false mAccelerometerDefault=false gripRotationLock=false
+12-12 20:47:39.404   787   875 I SpenGestureManager: setFocusWindow0
+12-12 20:47:39.414   787   975 D SmartFaceIndicator: no icon
+12-12 20:47:39.414   787   975 E SmartFaceService: mActiveServiceType: 0
+12-12 20:47:39.414   787   975 E SmartFaceService: mScrollEnabled:false mPauseEnabled:false mStayEnabled:false mRotationEnabled:false, (false,true)
+12-12 20:47:39.414   787   975 E SmartFaceService: mLightIntensityEnough: true mLux: 0.0
+12-12 20:47:39.414   787   975 D Stay/Rotation Worker: updateClientsDone. def. do nothing.
+12-12 20:47:39.414   787   975 E SmartFaceService: Service Type to Worker: 0
+12-12 20:47:39.414   787   975 E SmartFaceService: Last Active clients:0 Current Active clients: 0
+12-12 20:47:39.414   787   975 E SmartFaceService: Last Smart Pause clients: 0 Current Smart Pause clients: 0
+12-12 20:47:39.414   787   787 D CrashAnrDetector: processName: com.example.snoopy
+12-12 20:47:39.414   787   787 D CrashAnrDetector: broadcastEvent : com.example.snoopy data_app_crash
+12-12 20:47:39.414   787   879 V WindowManager: rotationForOrientationLw(orient=-1, last=0); user=0 USER_ROTATION_LOCKED sensorRotation=-1 mLidState=-1 mDockMode=0 mHdmiPlugged=false mAccelerometerDefault=false gripRotationLock=false
+12-12 20:47:39.434   787   867 D PointerIcon: setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+12-12 20:47:39.434   787   867 D PointerIcon: setMouseCustomIcon IconType is same.101
+12-12 20:47:39.434   787   879 I SensorManagerA: getReportingMode :: sensor.mType = 65558
+12-12 20:47:39.434   787   879 D SensorService: AutoRotationSensor::changed settle time to [1]
+12-12 20:47:39.434   787   787 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1523 com.android.server.analytics.data.collection.application.CrashAnrDetector.broadcastEvent:296 com.android.server.analytics.data.collection.application.CrashAnrDetector.processDropBoxEntry:254 com.android.server.analytics.data.collection.application.CrashAnrDetector.access$100:60 com.android.server.analytics.data.collection.application.CrashAnrDetector$1.onReceive:102 
+12-12 20:47:39.434   787  3280 V WindowManager: rotationForOrientationLw(orient=-1, last=0); user=0 USER_ROTATION_LOCKED sensorRotation=-1 mLidState=-1 mDockMode=0 mHdmiPlugged=false mAccelerometerDefault=false gripRotationLock=false
+12-12 20:47:39.434   787   879 D STATUSBAR-StatusBarManagerService: manageDisableList what=0x0 pkg=WindowManager.LayoutParams
+12-12 20:47:39.444   787   879 D SensorService: AutoRotationSensor::activate (ident=0x7ee3cd30, enabled=1)
+12-12 20:47:39.444   787   879 D SensorService: AutoRotationSensor::AR_init
+12-12 20:47:39.444   241   241 I SurfaceFlinger: id=38 createSurf (1x1),1 flag=4, tnoopy
+12-12 20:47:39.444 13159 13159 I AndroidRuntime: VM exiting with result code 956.
+12-12 20:47:39.484   787   879 D SensorManager: registerListener :: 1600221811, Screen Orientation Sensor, 66667, 0,  
+12-12 20:47:39.484   787   879 D WindowManager: updateSetting mIsKidsLauncherEnabled = false isKidsLauncherEnabled = false
+12-12 20:47:39.494   787   879 V WindowManager: rotationForOrientationLw(orient=-1, last=0); user=0  sensorRotation=-1 mLidState=-1 mDockMode=0 mHdmiPlugged=false mAccelerometerDefault=false gripRotationLock=false
+12-12 20:47:39.554   787   863 D SensorService: AutoRotationSensor::reset oldrotation = [100], initState = [1]
+12-12 20:47:39.554   787   879 V WindowManager: rotationForOrientationLw(orient=-1, last=0); user=0  sensorRotation=-1 mLidState=-1 mDockMode=0 mHdmiPlugged=false mAccelerometerDefault=false gripRotationLock=false
+12-12 20:47:39.614   787 13496 E android.os.Debug: !@Dumpstate > sdumpstate -k -t -z -d -o /data/log/dumpstate_app_error
+12-12 20:47:39.614   787   863 D SensorService: AutoRotationSensor::process: Acc  eventTimestamp = 7947436189000, previousAccTimestamp = 7947124828000, difference = 311361000 
+12-12 20:47:39.614   787   863 D SensorService:  [AR] 0.1 -0.1 9.7
+12-12 20:47:39.614   787   863 D SensorService: AutoRotationSensor::process: Ar_SensorChanged oldrotation = [100], rotation = [255]
+12-12 20:47:39.614   787   879 V WindowOrientationListener: Rotation Sensor : x=255.0
+12-12 20:47:39.834   787   875 W ActivityManager: mDVFSHelper.acquire()
+12-12 20:47:40.044   787   787 D CustomFrequencyManagerService: FrequencyrequestList.getNextMaxCPUCoreRequest, index: 0
+12-12 20:47:40.174   787   875 W ActivityManager: mDVFSHelper.release()
+12-12 20:47:40.524 11728 11728 W dalvikvm: VFY: unable to find class referenced in signature (Landroid/app/job/JobParameters;)
+12-12 20:47:40.604   787   863 D SensorService:   0.1 -0.1 9.7
+12-12 20:47:40.624 11710 12194 D dalvikvm: GC_EXPLICIT freed 1011K, 55% free 6373K/14092K, paused 4ms+8ms, total 74ms
+12-12 20:47:41.014 11728 11732 D dalvikvm: GC_CONCURRENT freed 1810K, 59% free 10220K/24428K, paused 6ms+8ms, total 69ms
+12-12 20:47:41.424   991   991 D STATUSBAR-NetworkController: refreshSignalCluster - setNWBoosterIndicators(false)
+12-12 20:47:41.424   991   991 D STATUSBAR-NetworkController: refreshSignalCluster: data=-1 bt=false
+12-12 20:47:41.434   991   991 D STATUSBAR-IconMerger: checkOverflow(1036), More:false, Req:false Child:5
+12-12 20:47:41.494 11387 11391 D dalvikvm: GC_CONCURRENT freed 2151K, 37% free 8993K/14092K, paused 11ms+7ms, total 68ms

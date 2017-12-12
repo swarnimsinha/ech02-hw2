@@ -1,0 +1,398 @@
+--------- beginning of /dev/log/main
+12-12 12:47:52.613  7918  7918 D AndroidRuntime: 
+12-12 12:47:52.613  7918  7918 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+12-12 12:47:52.613  7918  7918 D AndroidRuntime: CheckJNI is OFF
+12-12 12:47:52.613  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.613  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x5894f000 with sizes 17456 9068 22916 7820
+12-12 12:47:52.613  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.613  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x5895d000 with sizes 3488 1968 3700 1000
+12-12 12:47:52.613  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.613  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x58961000 with sizes 1212 1216 2416 256
+12-12 12:47:52.613  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.613  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x58968000 with sizes 132 296 392 8
+12-12 12:47:52.613  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.613  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x58b27000 with sizes 8748 4364 7932 3996
+12-12 12:47:52.623  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.623  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x58b2e000 with sizes 22496 5180 8540 1804
+12-12 12:47:52.623  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.623  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x596a2000 with sizes 56980 26392 103936 34400
+12-12 12:47:52.623  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.623  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x598bd000 with sizes 9456 6512 11508 3328
+12-12 12:47:52.623  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.623  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x59a31000 with sizes 20772 3532 10520 3092
+12-12 12:47:52.623  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.623  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x58b3d000 with sizes 1660 956 2388 56
+12-12 12:47:52.623  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.623  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x59a99000 with sizes 1312 504 800 184
+12-12 12:47:52.623  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.623  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x59a9a000 with sizes 1704 1896 3404 216
+12-12 12:47:52.623  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.623  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x59edd000 with sizes 41656 10740 31732 2024
+12-12 12:47:52.623  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.623  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x59a9f000 with sizes 13340 3572 6468 560
+12-12 12:47:52.623  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.623  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x5a122000 with sizes 3752 5072 11996 2620
+12-12 12:47:52.623  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.623  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x59aa7000 with sizes 864 112 12 8
+12-12 12:47:52.623  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.623  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x59aa9000 with sizes 144 424 416 84
+12-12 12:47:52.623  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.623  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x5a13b000 with sizes 8 84 20 52
+12-12 12:47:52.623  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.633  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x5a13c000 with sizes 2300 1284 1900 732
+12-12 12:47:52.633  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.633  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x5a140000 with sizes 3068 1548 4364 1460
+12-12 12:47:52.633  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.633  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x5a144000 with sizes 2512 2028 2656 348
+12-12 12:47:52.633  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.633  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x5a147000 with sizes 244 632 480 120
+12-12 12:47:52.633  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.633  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x5a14a000 with sizes 44 16 4 16
+12-12 12:47:52.633  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.633  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x5a499000 with sizes 17456 5180 15016 5508
+12-12 12:47:52.633  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.633  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x5a230000 with sizes 17648 1196 1848 1084
+12-12 12:47:52.633  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.633  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x5a6c9000 with sizes 5448 6248 17376 5152
+12-12 12:47:52.633  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.633  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x5a237000 with sizes 92 272 204 12
+12-12 12:47:52.633  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.633  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x5a6db000 with sizes 368 52 8 52
+12-12 12:47:52.633  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.633  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x5a6f8000 with sizes 848 488 512 692
+12-12 12:47:52.633  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.633  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x5a6fb000 with sizes 20 36 20 8
+12-12 12:47:52.633  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.633  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x5a704000 with sizes 360 232 320 68
+12-12 12:47:52.633  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.633  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x5a714000 with sizes 864 272 320 208
+12-12 12:47:52.643  7918  7918 D dalvikvm: Trying to load lib libjavacore.so 0x0
+12-12 12:47:52.643  7918  7918 D dalvikvm: Added shared lib libjavacore.so 0x0
+12-12 12:47:52.643  7918  7918 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+12-12 12:47:52.643  7918  7918 D dalvikvm: Added shared lib libnativehelper.so 0x0
+12-12 12:47:52.643  7918  7918 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+12-12 12:47:52.653  7918  7918 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:52.653  7918  7918 D dalvikvm: dalvik-aux-structure mapped at 0x5b999000 with sizes 1588 908 1276 264
+12-12 12:47:52.703  7918  7918 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 179 unimplemented (abstract) methods
+12-12 12:47:52.833  7918  7918 D AndroidRuntime: Calling main entry com.android.commands.monkey.Monkey
+--------- beginning of /dev/log/system
+12-12 12:47:52.853   925   955 W BroadcastQueue: Skipping deliver [background] BroadcastRecord{42eff3d8 u-1 android.net.conn.CONNECTIVITY_CHANGE} to ReceiverList{42dad178 7918 (unknown name)/2000/u-1 remote:42aa6258}: process crashing
+12-12 12:47:52.883   925  1505 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:47:52.893   925  1505 W ActivityManager: Input dispatching paused for current ActivityRecord: ActivityRecord{42281438 u0 com.example.snoopy/.CameraInputFrames t4}
+12-12 12:47:52.903  7948  7948 D dalvikvm: Late-enabling CheckJNI
+12-12 12:47:52.903   925  1420 I ActivityManager: Start proc com.example.snoopy for activity com.example.snoopy/.CameraInputFrames: pid=7948 uid=10002 gids={50002, 3003, 1028, 1015}
+12-12 12:47:52.983   925  1580 D AmazonTransitionManager: openingActivityName = com.example.snoopy.CameraInputFrames, animationType = ZOOM
+12-12 12:47:53.043   925   977 I InputDispatcher: Dropping event because there is no touchable window at (487, 523).
+12-12 12:47:53.043  7948  7948 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:53.043  7948  7948 D dalvikvm: dalvik-aux-structure mapped at 0x609b1000 with sizes 17256 15772 38280 8156
+12-12 12:47:53.043  7948  7948 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:53.043  7948  7948 D dalvikvm: dalvik-aux-structure mapped at 0x6054d000 with sizes 752 564 744 248
+12-12 12:47:53.043  7948  7948 D dalvikvm: Good opt header, DEX offset is 64, flags=0x00
+12-12 12:47:53.043  7948  7948 D dalvikvm: dalvik-aux-structure mapped at 0x6054f000 with sizes 80 112 108 44
+12-12 12:47:53.043  7948  7948 D ProfileManager: Create ProfileManager instance
+12-12 12:47:53.043   925  1389 W InputManager: Input event injection from pid 7918 failed.
+12-12 12:47:53.043   925  1193 W InputManager: Input event injection from pid 7918 failed.
+12-12 12:47:53.063  7948  7948 I dalvikvm: Could not find method android.content.pm.PackageManager.getPackageInstaller, referenced from method com.google.android.gms.common.zzo.zzx
+12-12 12:47:53.063  7948  7948 W dalvikvm: VFY: unable to resolve virtual method 4346: Landroid/content/pm/PackageManager;.getPackageInstaller ()Landroid/content/pm/PackageInstaller;
+12-12 12:47:53.063  7948  7948 D dalvikvm: VFY: replacing opcode 0x6e at 0x0013
+12-12 12:47:53.073  7948  7948 I dalvikvm: Could not find method android.content.Context.getNoBackupFilesDir, referenced from method com.google.android.gms.common.util.zzu.getNoBackupFilesDir
+12-12 12:47:53.073  7948  7948 W dalvikvm: VFY: unable to resolve virtual method 863: Landroid/content/Context;.getNoBackupFilesDir ()Ljava/io/File;
+12-12 12:47:53.073  7948  7948 D dalvikvm: VFY: replacing opcode 0x6e at 0x0006
+12-12 12:47:53.073  7948  7969 W DynamiteModule: Local module descriptor class for com.google.firebase.auth not found.
+12-12 12:47:53.073  7948  7969 I dalvikvm: Could not find method android.content.pm.PackageManager.isInstantApp, referenced from method com.google.android.gms.internal.zzbec.zzalq
+12-12 12:47:53.073  7948  7969 W dalvikvm: VFY: unable to resolve virtual method 4531: Landroid/content/pm/PackageManager;.isInstantApp (Ljava/lang/String;)Z
+12-12 12:47:53.073  7948  7969 D dalvikvm: VFY: replacing opcode 0x6e at 0x002d
+12-12 12:47:53.083  7948  7948 W InstanceID/Rpc: Failed to resolve IID implementation package, falling back
+12-12 12:47:53.083   925  1004 W PackageManager: com.google.android.gms is not installed for user 0
+12-12 12:47:53.083   925  1580 W PackageManager: com.google.android.gsf is not installed for user 0
+12-12 12:47:53.083  7948  7948 W InstanceID/Rpc: Google Play services is missing, unable to get tokens
+12-12 12:47:53.083  7948  7948 D FirebaseApp: com.google.firebase.crash.FirebaseCrash is not linked. Skipping initialization.
+12-12 12:47:53.083  7948  7969 W GooglePlayServicesUtil: Google Play Store is missing.
+12-12 12:47:53.083  7948  7948 I FA      : App measurement is starting up, version: 11400
+12-12 12:47:53.083  7948  7948 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+12-12 12:47:53.093  7948  7948 I dalvikvm: Could not find method android.content.pm.PackageManager.isInstantApp, referenced from method com.google.android.gms.internal.zzbeb.zzcp
+12-12 12:47:53.093  7948  7948 W dalvikvm: VFY: unable to resolve virtual method 4523: Landroid/content/pm/PackageManager;.isInstantApp ()Z
+12-12 12:47:53.093  7948  7948 D dalvikvm: VFY: replacing opcode 0x6e at 0x0028
+12-12 12:47:53.093  7948  7948 I FA      : To enable faster debug mode event logging run:
+12-12 12:47:53.093  7948  7948 I FA      :   adb shell setprop debug.firebase.analytics.app com.example.snoopy
+12-12 12:47:53.093  7948  7948 E dalvikvm: Could not find class 'android.app.job.JobScheduler', referenced from method com.google.android.gms.internal.zzcfr.zzazv
+12-12 12:47:53.093  7948  7948 W dalvikvm: VFY: unable to resolve check-cast 64 (Landroid/app/job/JobScheduler;) in Lcom/google/android/gms/internal/zzcfr;
+12-12 12:47:53.093  7948  7948 D dalvikvm: VFY: replacing opcode 0x1f at 0x000b
+12-12 12:47:53.093   925   977 I InputDispatcher: Dropping event because there is no touchable window at (12, 1195).
+12-12 12:47:53.093  7948  7948 E dalvikvm: Could not find class 'android.app.job.JobScheduler', referenced from method com.google.android.gms.internal.zzcfr.zzs
+12-12 12:47:53.093  7948  7948 W dalvikvm: VFY: unable to resolve check-cast 64 (Landroid/app/job/JobScheduler;) in Lcom/google/android/gms/internal/zzcfr;
+12-12 12:47:53.093  7948  7948 D dalvikvm: VFY: replacing opcode 0x1f at 0x0098
+12-12 12:47:53.093  7948  7948 D dalvikvm: DexOpt: unable to opt direct call 0x2262 at 0xa0 in Lcom/google/android/gms/internal/zzcfr;.zzs
+12-12 12:47:53.093  7948  7948 D dalvikvm: DexOpt: unable to opt direct call 0x2265 at 0xae in Lcom/google/android/gms/internal/zzcfr;.zzs
+12-12 12:47:53.093   925  1580 W InputManager: Input event injection from pid 7918 failed.
+12-12 12:47:53.093   925  1580 W InputManager: Input event injection from pid 7918 failed.
+12-12 12:47:53.103  7948  7948 I FirebaseInitProvider: FirebaseApp initialization successful
+12-12 12:47:53.103  7948  7948 W ResourceType: No package identifier when getting value for resource number 0x00000000
+12-12 12:47:53.103  7948  7948 I Dispatch: No dispatch information file found
+12-12 12:47:53.103  7948  7974 W dalvikvm: VFY: unable to find class referenced in signature (Landroid/app/job/JobParameters;)
+12-12 12:47:53.103  7948  7974 W dalvikvm: VFY: unable to find class referenced in signature (Landroid/app/job/JobParameters;)
+12-12 12:47:53.103  7948  7974 W dalvikvm: VFY: unable to find class referenced in signature (Landroid/app/job/JobParameters;)
+12-12 12:47:53.103  7948  7974 W dalvikvm: VFY: unable to find class referenced in signature (Landroid/app/job/JobParameters;)
+12-12 12:47:53.103  7948  7974 I dalvikvm: Could not find method android.app.job.JobParameters.getExtras, referenced from method com.google.android.gms.internal.zzcfh.onStartJob
+12-12 12:47:53.103  7948  7974 W dalvikvm: VFY: unable to resolve virtual method 4778: Landroid/app/job/JobParameters;.getExtras ()Landroid/os/PersistableBundle;
+12-12 12:47:53.103  7948  7974 D dalvikvm: VFY: replacing opcode 0x6e at 0x000a
+12-12 12:47:53.103   925  1389 W InputManager: Input event injection from pid 7918 failed.
+12-12 12:47:53.103   925   935 W InputManager: Input event injection from pid 7918 failed.
+12-12 12:47:53.103   925  1193 W InputManager: Input event injection from pid 7918 failed.
+12-12 12:47:53.113  7948  7948 I Activity: No ActvityExender defined. Proceed with default activity behavior.
+12-12 12:47:53.113  7948  7948 I dalvikvm: Could not find method android.view.Window$Callback.onProvideKeyboardShortcuts, referenced from method android.support.v7.view.WindowCallbackWrapper.onProvideKeyboardShortcuts
+12-12 12:47:53.113  7948  7948 W dalvikvm: VFY: unable to resolve interface method 3283: Landroid/view/Window$Callback;.onProvideKeyboardShortcuts (Ljava/util/List;Landroid/view/Menu;I)V
+12-12 12:47:53.113  7948  7948 D dalvikvm: VFY: replacing opcode 0x72 at 0x0002
+12-12 12:47:53.113  7948  7948 W dalvikvm: VFY: unable to find class referenced in signature (Landroid/view/SearchEvent;)
+12-12 12:47:53.113  7948  7948 I dalvikvm: Could not find method android.view.Window$Callback.onSearchRequested, referenced from method android.support.v7.view.WindowCallbackWrapper.onSearchRequested
+12-12 12:47:53.113  7948  7948 W dalvikvm: VFY: unable to resolve interface method 3285: Landroid/view/Window$Callback;.onSearchRequested (Landroid/view/SearchEvent;)Z
+12-12 12:47:53.113  7948  7948 D dalvikvm: VFY: replacing opcode 0x72 at 0x0002
+12-12 12:47:53.113  7948  7948 I dalvikvm: Could not find method android.view.Window$Callback.onWindowStartingActionMode, referenced from method android.support.v7.view.WindowCallbackWrapper.onWindowStartingActionMode
+12-12 12:47:53.113  7948  7948 W dalvikvm: VFY: unable to resolve interface method 3289: Landroid/view/Window$Callback;.onWindowStartingActionMode (Landroid/view/ActionMode$Callback;I)Landroid/view/ActionMode;
+12-12 12:47:53.113  7948  7948 D dalvikvm: VFY: replacing opcode 0x72 at 0x0002
+12-12 12:47:53.113  7948  7948 I dalvikvm: Could not find method android.content.res.TypedArray.getChangingConfigurations, referenced from method android.support.v7.widget.TintTypedArray.getChangingConfigurations
+12-12 12:47:53.113  7948  7948 W dalvikvm: VFY: unable to resolve virtual method 3746: Landroid/content/res/TypedArray;.getChangingConfigurations ()I
+12-12 12:47:53.113  7948  7948 D dalvikvm: VFY: replacing opcode 0x6e at 0x0002
+12-12 12:47:53.113  7948  7948 I dalvikvm: Could not find method android.content.res.TypedArray.getType, referenced from method android.support.v7.widget.TintTypedArray.getType
+12-12 12:47:53.113  7948  7948 W dalvikvm: VFY: unable to resolve virtual method 3760: Landroid/content/res/TypedArray;.getType (I)I
+12-12 12:47:53.113  7948  7948 D dalvikvm: VFY: replacing opcode 0x6e at 0x0008
+12-12 12:47:53.133  7948  7948 I dalvikvm: Could not find method android.widget.FrameLayout.startActionModeForChild, referenced from method android.support.v7.widget.ActionBarContainer.startActionModeForChild
+12-12 12:47:53.133  7948  7948 W dalvikvm: VFY: unable to resolve virtual method 3336: Landroid/widget/FrameLayout;.startActionModeForChild (Landroid/view/View;Landroid/view/ActionMode$Callback;I)Landroid/view/ActionMode;
+12-12 12:47:53.133  7948  7948 D dalvikvm: VFY: replacing opcode 0x6f at 0x0002
+12-12 12:47:53.143  7948  7948 I dalvikvm: Could not find method android.content.Context.getColorStateList, referenced from method android.support.v7.content.res.AppCompatResources.getColorStateList
+12-12 12:47:53.143  7948  7948 W dalvikvm: VFY: unable to resolve virtual method 865: Landroid/content/Context;.getColorStateList (I)Landroid/content/res/ColorStateList;
+12-12 12:47:53.143  7948  7948 D dalvikvm: VFY: replacing opcode 0x6e at 0x0006
+12-12 12:47:53.143  7948  7948 I dalvikvm: Could not find method android.content.res.Resources.getDrawable, referenced from method android.support.v7.widget.ResourcesWrapper.getDrawable
+12-12 12:47:53.143  7948  7948 W dalvikvm: VFY: unable to resolve virtual method 950: Landroid/content/res/Resources;.getDrawable (ILandroid/content/res/Resources$Theme;)Landroid/graphics/drawable/Drawable;
+12-12 12:47:53.143  7948  7948 D dalvikvm: VFY: replacing opcode 0x6e at 0x0002
+12-12 12:47:53.143  7948  7948 I dalvikvm: Could not find method android.content.res.Resources.getDrawableForDensity, referenced from method android.support.v7.widget.ResourcesWrapper.getDrawableForDensity
+12-12 12:47:53.143  7948  7948 W dalvikvm: VFY: unable to resolve virtual method 951: Landroid/content/res/Resources;.getDrawableForDensity (IILandroid/content/res/Resources$Theme;)Landroid/graphics/drawable/Drawable;
+12-12 12:47:53.143  7948  7948 D dalvikvm: VFY: replacing opcode 0x6e at 0x0002
+12-12 12:47:53.153  7948  7948 E dalvikvm: Could not find class 'android.graphics.drawable.RippleDrawable', referenced from method android.support.v7.widget.AppCompatImageHelper.hasOverlappingRendering
+12-12 12:47:53.153  7948  7948 W dalvikvm: VFY: unable to resolve instanceof 173 (Landroid/graphics/drawable/RippleDrawable;) in Landroid/support/v7/widget/AppCompatImageHelper;
+12-12 12:47:53.153  7948  7948 D dalvikvm: VFY: replacing opcode 0x20 at 0x000c
+12-12 12:47:53.153   925   977 I InputDispatcher: Dropping event because there is no touchable window at (399, 1437).
+12-12 12:47:53.153   925  1004 W InputManager: Input event injection from pid 7918 failed.
+12-12 12:47:53.153   925  1416 W InputManager: Input event injection from pid 7918 failed.
+12-12 12:47:53.153   925  1425 W InputManager: Input event injection from pid 7918 failed.
+12-12 12:47:53.153   925  1093 W InputManager: Input event injection from pid 7918 failed.
+12-12 12:47:53.153   925  1423 W InputManager: Input event injection from pid 7918 failed.
+12-12 12:47:53.163  7948  7948 W ResourceType: Attempt to retrieve bag 0x0103003e which is invalid or in a cycle.
+12-12 12:47:53.163  7948  7948 I Dispatch: Dispatch information file known to not exist or be corrupt. Not loading dispatch rules while trying to load : ITextViewDispatcher
+12-12 12:47:53.203   925   977 I InputDispatcher: Dropping event because there is no touchable window at (1007, 708).
+12-12 12:47:53.203   925  1004 W InputManager: Input event injection from pid 7918 failed.
+12-12 12:47:53.203   925  1416 W InputManager: Input event injection from pid 7918 failed.
+12-12 12:47:53.253   925  1193 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:47:53.293  7948  7948 I Adreno-EGL: <qeglDrvAPI_eglInitialize:410>: EGL 1.4 QUALCOMM build: AGARWALR_AU_LINUX_ANDROID_LNX.LA.3.5.1.2.04.04.02.052.139+PATCH[ES]_msm8974_LNX.LA.3.5.1.2__release_ENGG ()
+12-12 12:47:53.293  7948  7948 I Adreno-EGL: OpenGL ES Shader Compiler Version: E031.24.00.15
+12-12 12:47:53.293  7948  7948 I Adreno-EGL: Build Date: 10/10/14 Fri
+12-12 12:47:53.293  7948  7948 I Adreno-EGL: Local Branch: 
+12-12 12:47:53.293  7948  7948 I Adreno-EGL: Remote Branch: quic/LNX.LA.3.5.1.2_3
+12-12 12:47:53.293  7948  7948 I Adreno-EGL: Local Patches: 1731ce61bba412e91e291c7a39fdde0e3e6eef32 Revert "Fix the hint for pre-rotation of 90/270."
+12-12 12:47:53.293  7948  7948 I Adreno-EGL:                  08ba22c0f7083457f048a1c2f74a205e43442dc7 Fixes a pink icon artifact.
+12-12 12:47:53.293  7948  7948 I Adreno-EGL: Reconstruct Branch: LOCAL_PATCH[ES]
+12-12 12:47:53.313  7948  7948 D OpenGLRenderer: Enabling debug mode 0
+12-12 12:47:53.343  7948  7948 I Dispatch: Dispatch information file known to not exist or be corrupt. Not loading dispatch rules while trying to load : ICanvasDispatcher
+12-12 12:47:53.393   925   953 I ActivityManager: Displayed com.example.snoopy/.CameraInputFrames: +499ms
+12-12 12:47:53.863   925  1388 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:47:54.023   925  1425 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:47:54.453   925  1388 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:47:54.793   925  1004 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:47:54.963   925  1416 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:47:55.063   925  1505 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:47:55.163   925  1196 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:47:55.273   925   936 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:47:55.423  7948  7955 I dalvikvm: Total arena pages for JIT: 11
+12-12 12:47:55.423  7948  7955 I dalvikvm: Total arena pages for JIT: 12
+12-12 12:47:55.423  7948  7955 I dalvikvm: Total arena pages for JIT: 13
+12-12 12:47:55.423  7948  7955 I dalvikvm: Total arena pages for JIT: 14
+12-12 12:47:55.433  7948  7974 W GooglePlayServicesUtil: Google Play Store is missing.
+12-12 12:47:55.433  7948  7974 W FA      : Service invalid
+12-12 12:47:55.443  7948  7974 I FA      : This instance being marked as an uploader
+12-12 12:47:55.533   925  1100 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:47:55.793   925   935 W PackageManager: com.google.android.gms is not installed for user 0
+12-12 12:47:55.863  7948  7974 W FA      : Callable skipped the worker queue.
+12-12 12:47:55.863  7948  7974 I FA      : Tag Manager is not found and thus will not be used
+12-12 12:47:55.863   925  1196 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:47:56.073   925   936 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:47:56.283   925  1093 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:47:56.723   925   955 I ActivityManager: Waited long enough for: ServiceRecord{42cb4c08 u0 com.amazon.venezia/com.amazon.mcc.crashreporter.android.CrashReportService}
+12-12 12:47:56.983   925  1389 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:47:57.033   925  1580 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:47:57.353   925  1580 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:47:58.263   925  1004 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:47:58.713   925  1596 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:47:59.493   925  1420 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:47:59.923   925  1389 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:47:59.953   925  1156 I LoggerMetricsFactoryImpl: record : No valid data points in metrics event. Program: location_manager Soruce: general
+12-12 12:47:59.953   925  1156 I LoggerMetricsFactoryImpl: record : No valid data points in metrics event. Program: location_manager Soruce: geofence
+12-12 12:47:59.953   925  1156 I LoggerMetricsFactoryImpl: record : No valid data points in metrics event. Program: location_manager Soruce: gps
+12-12 12:47:59.953   925  1156 I LoggerMetricsFactoryImpl: record : No valid data points in metrics event. Program: location_manager Soruce: fused
+12-12 12:48:00.683   925   936 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:02.883   925  1423 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:03.323  7948  8245 D CRLSetManager: getInstance binder: android.os.BinderProxy@424ca8e8
+12-12 12:48:03.893   925  1420 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:03.993   925  1388 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:04.213   925  1100 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:04.643   925  1416 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:05.343   925  1416 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:06.793   925  1416 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:07.323   925  1505 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:07.983   925  1416 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:08.043   925  1100 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:08.403   925  1596 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:08.463   925   936 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:08.673   925  1420 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:08.783   925  1196 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:08.883   925  1388 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:10.403   925  1420 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:10.513   925  1420 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:10.673   925  1596 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:11.673   925   935 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:11.893   925  1423 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:13.673   925   935 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:13.723   925  1505 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:14.273   925  1596 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:14.813   925   936 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:15.413   925  1505 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:15.903   925  1425 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:15.953   925  1388 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:17.753   925   935 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:17.923   925  1196 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:18.643   925  1093 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@42a8b0e0 attribute=null, token = android.os.BinderProxy@42349500
+12-12 12:48:18.693   925  1420 I ActivityManager: Killing 7204:com.amazon.device.messaging/u0a22013 (adj 12): empty #17
+12-12 12:48:19.053   925   936 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:20.503   925  1416 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:20.573   925   935 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@42b27c88 attribute=null, token = android.os.BinderProxy@42349500
+12-12 12:48:20.613   925  1425 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:20.663   925   936 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:21.033   925  1388 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:21.353   925   935 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:21.943   925  1193 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:22.953   925  1196 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:23.333   925  1423 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:23.873   925  1596 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:24.463   925  1389 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:24.733   925  1505 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:25.003   925  1389 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:25.803   925   935 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:25.953   925  1423 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:27.123   925  1425 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:27.223   925  1596 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:27.283   925  1420 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:27.553   925  1423 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:28.333   925  1004 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:29.263   925  1420 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:29.533   925  1425 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:29.803   925  1193 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:30.463   925  1580 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:30.683   925  1388 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:31.543   925  1093 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:31.863   925  1596 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:32.343   925  1596 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:32.453   925   935 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:32.883   925  1420 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:33.103   925  1100 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:33.283   925  1505 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@42bf77c8 attribute=null, token = android.os.BinderProxy@42349500
+12-12 12:48:33.433   925   935 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:33.703   925  1100 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:34.183   925  1423 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:34.233   925  1196 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:34.453   925  1389 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:36.563   925  1580 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:36.613   925  1196 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:37.273   925   936 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:39.253   925  1193 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:40.363   925  1389 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:41.203   925   935 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:41.363   925  1388 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:42.123   925  1423 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:43.213   925  1505 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:43.593   925  1505 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:44.133   925  1580 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:45.003   925  1093 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:45.483   925  1416 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:46.723   925  1196 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:47.203   925  1596 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:48.203   925  1505 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:48.583   925  1100 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:48.953   925  1093 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:50.223   925   935 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:50.543   925   936 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:50.913   925  1423 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:52.103   925  1425 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:52.593   925  1596 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:53.953   925  1004 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:54.003   925  1596 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:54.053   925   935 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:54.483   925   935 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:54.803   925  1423 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:55.013   925  1505 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:55.793   925  1505 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:56.743   925  1423 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:58.193   925  1416 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:58.693   925  1420 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:59.713   925   936 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:48:59.953   925  1156 I LoggerMetricsFactoryImpl: record : No valid data points in metrics event. Program: location_manager Soruce: general
+12-12 12:48:59.953   925  1156 I LoggerMetricsFactoryImpl: record : No valid data points in metrics event. Program: location_manager Soruce: geofence
+12-12 12:48:59.953   925  1156 I LoggerMetricsFactoryImpl: record : No valid data points in metrics event. Program: location_manager Soruce: gps
+12-12 12:48:59.953   925  1156 I LoggerMetricsFactoryImpl: record : No valid data points in metrics event. Program: location_manager Soruce: fused
+12-12 12:48:59.953   925  1156 I LoggerMetricsFactoryImpl: record : No valid data points in metrics event. Program: location_manager Soruce: network
+12-12 12:48:59.953   925  1156 I LoggerMetricsFactoryImpl: record : No valid data points in metrics event. Program: location_manager Soruce: passive
+12-12 12:48:59.983   925  1580 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:00.083   925  1389 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:00.193   925   936 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:00.353   925  1425 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:00.503   925  1004 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:00.663   925   935 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:00.813   925  1416 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:01.033   925  1420 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:01.293   925  1596 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:01.673   925  1423 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:02.423   925  1100 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:02.573   925  1388 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:02.733   925  1425 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:03.103   925  1193 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:03.653   925  1505 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:03.813   925  1100 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:05.723   925   936 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:05.943   925   935 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:06.633   925  1388 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:06.733   925  1389 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:06.903   925  1596 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:07.333   925  1580 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:07.753   925  1004 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:08.343   925  1100 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:08.883   925   935 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:09.423   925  1388 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:09.633   925  1389 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:10.333   925  1416 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:11.253   925  1389 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:11.463   925  1505 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:11.563   925  1193 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:11.723   925  1420 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:11.933   925  1425 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:12.353   925  1093 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:12.623   925   935 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:12.673   925  1580 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:12.783   925  1004 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:13.283   925  1420 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:13.443   925  1420 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:13.923   925   935 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:14.033   925  1420 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:14.213   925   973 V BatteryDrain: sending alarm Alarm{42b2d690 type 0 com.nuance.swype.input}
+12-12 12:49:15.313   925  1505 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:15.703   925  1420 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:16.303   925  1416 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:17.563   925  1004 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:17.953   925   935 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:18.273   925  1389 I ActivityManager: START u0 {xxxx} from pid 7918
+12-12 12:49:19.233   925   960 W Settings: Setting default_input_method has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+12-12 12:49:19.273   925   955 W ProcessCpuTracker: Skipping unknown process pid 9986
+12-12 12:49:19.273   925   955 W ProcessCpuTracker: Skipping unknown process pid 9987
+12-12 12:49:19.273   925   955 W ProcessCpuTracker: Skipping unknown process pid 9993
+12-12 12:49:19.273   925   955 W ProcessCpuTracker: Skipping unknown process pid 10013
+12-12 12:49:19.273   925   955 W ProcessCpuTracker: Skipping unknown process pid 10016
+12-12 12:49:19.273   925   955 W ProcessCpuTracker: Skipping unknown process pid 10199
+12-12 12:49:19.313   925   960 W Settings: Setting default_input_method has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+12-12 12:49:19.313  7918  7918 I AndroidRuntime: VM exiting with result code 0.
