@@ -8,9 +8,9 @@ The AWS Testing contains the following folders describing two types of test runs
   - Interpretation:
 
     - I am using the Amazon's AWS to generate and analyze the test reports.
-    - In my testing, the test failed at a certain step in 2 out of the 3 devices.
-    - Google Pixel 2: The device was unavailable and skipped
-    - Google Pixel : Exerciser detected crash: java.lang.IllegalStateException: A fatal developer error has occurred. Check the logs for further information.
+    - In my testing, the test failed at a certain step in 2 out of the 4 devices.
+    - Samsung Galaxy S5 crashes with the error "Exerciser detected crash: java.lang.IllegalArgumentException: Given String is empty or null"
+    - Samsung Galaxy Tab crashes with the error "Exerciser detected crash: java.lang.IllegalArgumentException: Given String is empty or null"
 
 
 _Monkey Test_
