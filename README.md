@@ -2,6 +2,9 @@
 
 
 # Snoopy
+I have created this application for Homework 2 assignment 
+
+Following is its description
 An app built from scratch containing skeletal features like User Registration, Authentication, Login and upload and store content. Storage provided by Firebase. Watch this space for the directions this app will take!!
 
 Project was created step by step on android studio and has been tested on an emulator. 
