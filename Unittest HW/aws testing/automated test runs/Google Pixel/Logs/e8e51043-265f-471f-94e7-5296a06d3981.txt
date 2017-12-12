@@ -1,0 +1,28 @@
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on wlan0, link-type EN10MB (Ethernet), capture size 262144 bytes
+18:34:43.611578 IP 192.168.1.10.48459 > 74.125.197.81.https: Flags [S], seq 528035367, win 65535, options [mss 1460,sackOK,TS val 437197 ecr 0,nop,wscale 8], length 0
+18:34:43.643251 IP 74.125.197.81.https > 192.168.1.10.48459: Flags [S.], seq 1969690821, ack 528035368, win 42408, options [mss 1360,sackOK,TS val 2020345359 ecr 437197,nop,wscale 8], length 0
+18:34:43.645699 IP 192.168.1.10.48459 > 74.125.197.81.https: Flags [.], ack 1, win 343, options [nop,nop,TS val 437207 ecr 2020345359], length 0
+18:34:43.654446 IP 192.168.1.10.48459 > 74.125.197.81.https: Flags [P.], seq 1:243, ack 1, win 343, options [nop,nop,TS val 437210 ecr 2020345359], length 242
+18:34:43.685941 IP 74.125.197.81.https > 192.168.1.10.48459: Flags [.], ack 243, win 170, options [nop,nop,TS val 2020345402 ecr 437210], length 0
+18:34:43.686319 IP 74.125.197.81.https > 192.168.1.10.48459: Flags [P.], seq 1:157, ack 243, win 170, options [nop,nop,TS val 2020345403 ecr 437210], length 156
+18:34:43.688442 IP 192.168.1.10.48459 > 74.125.197.81.https: Flags [.], ack 157, win 347, options [nop,nop,TS val 437220 ecr 2020345403], length 0
+18:34:43.688465 IP 192.168.1.10.48459 > 74.125.197.81.https: Flags [P.], seq 243:294, ack 157, win 347, options [nop,nop,TS val 437220 ecr 2020345403], length 51
+18:34:43.710451 IP 192.168.1.10.48459 > 74.125.197.81.https: Flags [P.], seq 294:347, ack 157, win 347, options [nop,nop,TS val 437225 ecr 2020345403], length 53
+18:34:43.713868 IP 192.168.1.10.48459 > 74.125.197.81.https: Flags [P.], seq 347:385, ack 157, win 347, options [nop,nop,TS val 437227 ecr 2020345403], length 38
+18:34:43.720079 IP 74.125.197.81.https > 192.168.1.10.48459: Flags [P.], seq 157:226, ack 294, win 170, options [nop,nop,TS val 2020345436 ecr 437220], length 69
+18:34:43.729345 IP 192.168.1.10.48459 > 74.125.197.81.https: Flags [P.], seq 385:423, ack 226, win 347, options [nop,nop,TS val 437232 ecr 2020345436], length 38
+18:34:43.745310 IP 74.125.197.81.https > 192.168.1.10.48459: Flags [.], ack 385, win 170, options [nop,nop,TS val 2020345462 ecr 437225], length 0
+18:34:43.745433 IP 74.125.197.81.https > 192.168.1.10.48459: Flags [P.], seq 226:264, ack 385, win 170, options [nop,nop,TS val 2020345462 ecr 437225], length 38
+18:34:43.787848 IP 192.168.1.10.48459 > 74.125.197.81.https: Flags [.], ack 264, win 347, options [nop,nop,TS val 437250 ecr 2020345462], length 0
+18:34:43.800644 IP 74.125.197.81.https > 192.168.1.10.48459: Flags [.], ack 423, win 170, options [nop,nop,TS val 2020345477 ecr 437232], length 0
+18:34:53.066566 IP 192.168.1.10.44655 > sea15s02-in-f14.1e100.net.https: Flags [P.], seq 2205862286:2205862739, ack 3206380337, win 395, options [nop,nop,TS val 440032 ecr 3343721869], length 453
+18:34:53.095295 IP sea15s02-in-f14.1e100.net.https > 192.168.1.10.44655: Flags [.], ack 453, win 180, options [nop,nop,TS val 3343746093 ecr 440032], length 0
+18:34:53.231547 IP sea15s02-in-f14.1e100.net.https > 192.168.1.10.44655: Flags [P.], seq 1:513, ack 453, win 180, options [nop,nop,TS val 3343746229 ecr 440032], length 512
+18:34:53.231772 IP sea15s02-in-f14.1e100.net.https > 192.168.1.10.44655: Flags [P.], seq 513:844, ack 453, win 180, options [nop,nop,TS val 3343746229 ecr 440032], length 331
+18:34:53.231880 IP sea15s02-in-f14.1e100.net.https > 192.168.1.10.44655: Flags [P.], seq 844:878, ack 453, win 180, options [nop,nop,TS val 3343746229 ecr 440032], length 34
+18:34:53.236576 IP 192.168.1.10.44655 > sea15s02-in-f14.1e100.net.https: Flags [.], ack 513, win 406, options [nop,nop,TS val 440084 ecr 3343746229], length 0
+18:34:53.236592 IP 192.168.1.10.44655 > sea15s02-in-f14.1e100.net.https: Flags [.], ack 844, win 416, options [nop,nop,TS val 440084 ecr 3343746229], length 0
+18:34:53.236613 IP 192.168.1.10.44655 > sea15s02-in-f14.1e100.net.https: Flags [.], ack 878, win 416, options [nop,nop,TS val 440084 ecr 3343746229], length 0
+18:34:53.288587 IP 192.168.1.10.46501 > sea15s07-in-f14.1e100.net.https: Flags [S], seq 337061523, win 65535, options [mss 1460,sackOK,TS val 440100 ecr 0,nop,wscale 8], length 0
+18:34:53.315965 IP sea15s07-in-
