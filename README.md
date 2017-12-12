@@ -1,5 +1,10 @@
 **FOR THE TEST REPORT PLEASE OPEN THE UNITTEST HW FOLDER. IT CONTAINS ALL TESTING RELATED CONTENT**
 
+| CPU | MEMORY | NETWORK | |:-----------------:|:---------------------:|:-----------------:| | ![cpu1](/Unittest HW/Performance Memory and CPU/cpu_register.png) | ![memory1](/Unittest HW/Performance Memory and CPU/memory usage_register.png) | ![network1](/Unittest HW/Performance Memory and CPU/network stats at installation and startup.png) |
+
+
+
+
 # Snoopy
 An app built from scratch containing skeletal features like User Registration, Authentication, Login and upload and store content. Storage provided by Firebase. Watch this space for the directions this app will take!!
 
