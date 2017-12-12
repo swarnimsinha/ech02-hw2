@@ -1,0 +1,3 @@
+Now attempting to pull host machine customer files from $WORKING_DIRECTORY
+Failed to attach directory $WORKING_DIRECTORY because it is empty
+No files were attached.
