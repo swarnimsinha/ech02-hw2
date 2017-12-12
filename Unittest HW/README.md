@@ -9,7 +9,7 @@ The aws testing contains the following folders describing two types of test runs
      - In my testing, the test failed at a certain step in 2 out of the 4 devices. While nother device encountered a unique problem. 
      - Motorola Moto G 4: Fuzz test error was - *Exerciser detected crash: java.lang.IllegalArgumentException: Given String is empty or null*
      - Motorola Nexus 6: Fuzz test error was - *Exerciser detected crash: java.lang.IllegalArgumentException: Given String is empty or null*
-     - LG Nexus 5X : =Unique Error= - *Application not responding: com.google.android.googlequicksearchbox:search*
+     - LG Nexus 5X : ==Unique Error== - *Application not responding: com.google.android.googlequicksearchbox:search*
 - Remote Access Test: Here we use the AWS device farm to select a virtual device and install our applicaton on it and run and operate the application on the remote virtual device. This generates a TCP dump log, a logcat and a video that shows the steps we took while testing the application on the remote virtual device. 
      - The remote access session was carried out successfully and all features on the application were functional. 
 
