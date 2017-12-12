@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **FOR THE TEST REPORT PLEASE OPEN THE UNITTEST HW FOLDER. IT CONTAINS ALL TESTING RELATED CONTENT**
 
 
@@ -20,3 +21,7 @@ Modules:
 
 The name: 
 I am and have always been an avid reader of Detective tales, ghoulish and suspensful short stories of the like of Ruskin Bond and even Legends of Sleepy Hollow culminating with Sherlock Holmes. I intend to make this app into a space where users can register and submit their own creations (short stories) of this genre and also art related to such genre created or found by them! Hence the name Snoopy!! An unseemly name considering the theme of the app!
+=======
+# ech02-hw2
+Repository for Homework#2 unit test
+>>>>>>> bba862f1c421a0f8086c2e801acd6d2924b5f8b6
