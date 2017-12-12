@@ -1,6 +1,9 @@
 **FOR THE TEST REPORT PLEASE OPEN THE UNITTEST HW FOLDER. IT CONTAINS ALL TESTING RELATED CONTENT**
 
-| CPU | MEMORY | NETWORK | |:-----------------:|:---------------------:|:-----------------:| | ![cpu1](/Unittest HW/Performance Memory and CPU/cpu_register.png) | ![memory1](/Unittest HW/Performance Memory and CPU/memory usage_register.png) | ![network1](/Unittest HW/Performance Memory and CPU/network stats at installation and startup.png) |
+
+| CPU | MEMORY | NETWORK | 
+|:-----------------:|:---------------------:|:-----------------:| 
+| ![cpu1](/Unittest HW/Performance Memory and CPU/cpu_register.png) | ![memory1](/Unittest HW/Performance Memory and CPU/memory usage_register.png) | ![network1](/Unittest HW/Performance Memory and CPU/network stats at installation and startup.png) |
 
 
 
