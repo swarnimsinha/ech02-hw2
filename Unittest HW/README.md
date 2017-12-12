@@ -24,3 +24,8 @@ The aws testing contains the following folders describing two types of test runs
 Android Profiler Tests
 
 ![blue](/Performance Memory and CPU/cpu_register.png)
+![blue](/Performance Memory and CPU/CPU_select content.png)
+![blue](/Performance Memory and CPU/memory usage_register.png)
+![blue](/Performance Memory and CPU/memory_select content.png)
+![blue](/Performance Memory and CPU/network stats at installation and startup.png)
+![blue](/Performance Memory and CPU/network usage_upload content.png)
