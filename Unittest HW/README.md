@@ -23,4 +23,4 @@ The aws testing contains the following folders describing two types of test runs
 
 **Android Profiler Tests**
 
-![cpu1](/Unittest HW/Performance Memory and CPU/cpu_register.png)
+![cpu1](/Performance Memory and CPU/cpu_register.png)
