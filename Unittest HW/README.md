@@ -24,7 +24,7 @@ The aws testing contains the following folders describing two types of test runs
 
 
 
-![cpu1](/Performance-Memory-and-CPU/cpu_register.png)
+![cpu1](Performance Memory and CPU/cpu_register.png)
 
 ![cpu2](/Performance Memory and CPU/CPU_select content.png)
 
